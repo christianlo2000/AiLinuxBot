@@ -1,0 +1,13 @@
+ls|['listar','archivos','ficheros','ver','visualizar','mostrar']|modo de uso: ls|listar archivos
+cd|['cambiar','directorio','carpeta','ir a']|modo de uso: cd directorio|cambiar directorio
+mkdir|['crear','generar','directorios','carpetas']|modo de uso: mkdir directorio|crear directorio
+man|['help','ayuda','comandos','documentacion']|modo de uso: man comando|documentacion comandos
+date|['fecha','sistema','hora','ver','visualizar','mostrar']|modo de uso: date|fecha sistema
+ps|['listar','visualizar','mostrar','ver','procesos','activos','programas']|modo de uso: ps|procesos activos
+uname|['ver','mostrar','visualizar','informacion','sistema','operativo','version']|modo de uso: uname|informacion sistema
+nproc|['ver','mostrar','visualizar','cantidad','procesadores','microprocesadores','sistema']|modo de uso: nproc|cantidad procesadores
+df|['ver','mostrar','visualizar','sistema','ficheros','archivos','informacion']|modo de uso: df|espacio disco
+chmod|['cambiar','modificar','permisos','ficheros','archivos']|modo de uso: chmod permisos archivo|cambiar permisos
+rm|['eliminar','borrar','deletear','suprimir','archivos','ficheros']|modo de uso: rm nombreArchivo|borrar archivo
+clear|['borrar','limpiar','pantalla','monitor']|modo de uso: clear|borrar pantalla
+cp|['copiar','archivo','fichero']|modo de uso: cp archivoOrigen archivoDestino|copiar archivo
