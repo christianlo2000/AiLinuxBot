@@ -1,0 +1,300 @@
+2020-07-13 23:51:23.097372|How to see all commands I execute|['see', 'print', 'show', 'display', 'sees', 'commands', 'command', 'i', 'environment', 'env', 'environmental', 'execute', 'run', 'executes']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP']|free
+2020-07-13 23:55:07.571002|How to see all commands I execute|['see', 'print', 'show', 'display', 'sees', 'commands', 'command', 'i', 'environment', 'env', 'environmental', 'execute', 'run', 'executes']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP']|free
+2020-07-13 23:56:27.003570|How to list directory|['list', 'print', 'display', 'show', 'see', 'list', 'lists', 'directory', 'folder', 'directory', 'dir', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|ls
+2020-07-13 23:58:20.417802|How to see all commands|['see', 'print', 'show', 'display', 'sees', 'commands', 'command']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|free
+2020-07-13 23:59:31.191057|How to see all commands I execute|['see', 'print', 'show', 'display', 'sees', 'commands', 'command', 'i', 'environment', 'env', 'environmental', 'execute', 'run', 'executes']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP']|free
+2020-07-14 00:08:27.215507|How to delete files from a folder|['delete', 'erase', 'remove', 'deletes', 'files', 'filesystem', 'fs', 'file', 'folder', 'directory', 'dir', 'folders']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NNS', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NNS']|userdel
+2020-07-14 00:13:14.627804|How to delete files from a folder|['delete', 'erase', 'remove', 'deletes', 'files', 'file', 'folder', 'directory', 'dir', 'folders']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NNS']|userdel
+2020-07-14 00:13:45.428239|How to remove files of a directory|['remove', 'erase', 'remove', 'removes', 'files', 'file', 'directory', 'folder', 'directory', 'dir', 'directories']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2020-07-14 00:14:08.381367|How to delete files of a directory|['delete', 'erase', 'remove', 'deletes', 'files', 'file', 'directory', 'folder', 'directory', 'dir', 'directories']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2020-07-14 00:14:37.478989|How to show all commands executes|['show', 'print', 'display', 'see', 'shows', 'commands', 'command', 'executes', 'execut']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NNS', 'NN']|free
+2020-07-14 00:15:04.257078|How to know history of user commands|['know', 'print', 'display', 'show', 'knows', 'history', 'histories', 'user', 'users', 'commands', 'command']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS', 'NNS', 'NN']|last
+2020-07-14 00:15:29.007415|How to show history of commads|['show', 'print', 'display', 'see', 'shows', 'history', 'histories', 'commads', 'commad']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|history
+2020-07-14 00:15:50.895949|How to show history of commands|['show', 'print', 'display', 'see', 'shows', 'history', 'histories', 'commands', 'command']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|free
+2020-07-14 00:18:05.512177|How to stop a process|['stop', 'stops', 'process', 'processs']|['VB', 'VB', 'NN', 'NNS']|ps
+2020-07-14 00:18:25.266520|How to interrupt proccess execution|['interrupt', 'interrupts', 'proccess', 'execution', 'executions']|['VB', 'VB', 'JJ', 'NN', 'NNS']|bc
+2020-07-14 00:18:40.390181|How to kill process|['kill', 'kills', 'process', 'processs']|['VB', 'VB', 'NN', 'NNS']|kill
+2020-07-14 01:05:40.489130|How to change owner of file|['change', 'modify', 'changes', 'owner', 'owners', 'file', 'files']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|chown
+2020-07-14 01:05:56.872394|How to change user group|['change', 'modify', 'changes', 'user', 'users', 'group', 'groups']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|passwd
+2020-07-14 02:43:23.304013|How to see linux version|['see', 'print', 'show', 'display', 'sees', 'linux', 'version', 'versions']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|top
+2020-07-14 02:43:42.209630|How to see os version|['see', 'print', 'show', 'display', 'sees', 'os', 'operating-system', 'system', 'version', 'versions']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'JJ', 'JJ', 'NN', 'NNS']|hostname
+2020-07-14 09:06:46.098185|How to now linux architecture|['linux', 'linuxs', 'architecture', 'arch', 'architecture', 'architectures']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|arch
+2020-07-14 09:07:08.388502|How to see block files|['see', 'print', 'show', 'display', 'sees', 'block', 'blocks', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|wc
+2020-07-14 09:07:23.337600|How to see usb connections|['see', 'print', 'show', 'display', 'sees', 'usb', 'connections', 'connect']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN']|netstat
+2020-07-14 09:07:37.812181|How to download web pages|['download', 'downloader', 'downloads', 'web', 'network', 'internet', 'webs', 'pages', 'page']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|wget
+2020-07-14 13:51:48.430299|I want to know file type|['i', 'environment', 'env', 'environmental', 'want', 'wants', 'know', 'print', 'display', 'show', 'knows', 'file', 'files', 'type', 'types']|['NN', 'NN', 'NN', 'NN', 'VBP', 'VBP', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|wc
+2020-07-14 13:52:17.306244|How to see file type|['see', 'print', 'show', 'display', 'sees', 'file', 'type', 'types']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|file
+2020-07-14 13:53:08.493855|How can i get ip direction|['i', 'environment', 'env', 'environmental', 'get', 'gets', 'ip', 'direction', 'directions']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|env
+2020-07-14 19:15:25.664234|How to check filesystem|['check', 'checks', 'filesystem', 'filesystems']|['VB', 'VB', 'NN', 'NNS']|fsck
+2020-07-14 19:15:48.075522|How to manage file flows|['manage', 'manages', 'file', 'files', 'flows', 'flow']|['VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|sudo
+2020-07-14 19:16:04.863132|How to process file flows|['process', 'processs', 'file', 'files', 'flows', 'flow']|['VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|file
+2020-07-14 19:16:20.728839|How to print file flows|['print', 'display', 'show', 'see', 'list', 'prints', 'file', 'files', 'flows', 'flow']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|unzip
+2020-07-14 19:16:41.127100|How to summarize words of a file|['summarize', 'summarizes', 'words', 'word', 'file', 'files']|['VB', 'VB', 'NNS', 'NN', 'NN', 'NNS']|file
+2020-07-14 19:16:59.929236|How to count words of a file|['count', 'counts', 'words', 'word', 'file', 'files']|['VB', 'VB', 'NNS', 'NN', 'NN', 'NNS']|wc
+2020-07-14 19:17:27.512773|How to upgrade linux os|['upgrade', 'upgrades', 'linux', 'linuxs', 'os', 'operating-system', 'system', 'oss']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|netstat
+2020-07-14 19:17:43.127306|How to upgrade linux|['upgrade', 'upgrades', 'linux', 'linuxs']|['VB', 'VB', 'NN', 'NNS']|apt
+2020-07-14 19:18:01.566570|How to upgrade linux system|['upgrade', 'upgrades', 'linux', 'linuxs', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|netstat
+2020-07-14 19:18:28.482270|How to upgrade linux platform|['upgrade', 'upgrades', 'linux', 'linuxs', 'platform', 'platforms']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|apt
+2020-07-14 19:36:46.475167|How to know memory usage|['know', 'print', 'display', 'show', 'knows', 'memory', 'memories', 'usage', 'usages']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|free
+2020-07-14 19:37:05.382577|How to see memory space|['see', 'print', 'show', 'display', 'sees', 'memory', 'space', 'spaces']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|top
+2020-07-14 22:21:37.144294|How to check connection|['check', 'checks', 'connection', 'connections']|['VB', 'VB', 'NN', 'NNS']|mount
+2020-07-14 22:22:01.877950|How to check connection between hosts|['check', 'checks', 'connection', 'connections', 'hosts', 'host']|['VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|hostname
+2020-07-14 22:22:28.979930|How to check packet transfer|['check', 'checks', 'packet', 'packets', 'transfer', 'transfers']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|curl
+2020-07-14 22:54:36.400623|How to see if server is connected|['see', 'print', 'show', 'display', 'sees', 'server', 'system', 'os', 'server', 'servers']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|hostname
+2020-07-14 22:54:56.819678|How to check ping connection|['check', 'checks', 'connection', 'connections']|['VB', 'VB', 'NN', 'NNS']|mount
+2020-07-14 22:55:13.783615|How to open a file|['open', 'opens', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|file
+2020-07-15 00:24:47.959497|How to restore tar file|['restore', 'restores', 'tar', 'tars', 'file', 'files']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|tar
+2020-07-15 00:25:07.955484|How to restore packet file|['restore', 'restores', 'packet', 'packets', 'file', 'files']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|file
+2020-07-15 00:25:25.981015|How to restore compress file|['restore', 'restores', 'compress', 'compresss', 'file', 'files']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|file
+2020-07-15 00:26:04.839602|How to archive files|['archive', 'archives', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|zip
+2020-07-15 00:26:42.639909|How to synchronize system buffer|['synchronize', 'synchronizes', 'system', 'os', 'server', 'systems', 'buffer', 'buffers']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|hostname
+2020-07-15 00:31:58.402694|How to see manual linux|['see', 'print', 'show', 'display', 'sees', 'manual', 'linux', 'linuxs']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|top
+2020-07-15 00:32:12.314392|How to see linux manual online|['see', 'print', 'show', 'display', 'sees', 'linux', 'manual', 'online', 'onlines']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'JJ', 'NN', 'NNS']|netstat
+2020-07-15 00:32:33.666806|How to see a manual or a linux command|['see', 'print', 'show', 'display', 'sees', 'manual', 'linux', 'command', 'program', 'commands']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'JJ', 'NN', 'NN', 'NNS']|free
+2020-07-15 00:40:35.222221|I want to know how to list directory files|['i', 'storage', 'buffer', 'disk', 'know', 'print', 'display', 'show', 'knows', 'list', 'print', 'display', 'show', 'see', 'list', 'lists', 'directory', 'folder', 'directory', 'dir', 'directories', 'files', 'file']|['NN', 'NN', 'NN', 'NN', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|unzip
+2020-07-15 00:42:26.435484|How to print directory content|['print', 'display', 'show', 'see', 'list', 'prints', 'directory', 'folder', 'directory', 'dir', 'directories', 'content', 'contents']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|ls
+2020-07-15 00:42:48.194952|How to print directory files|['print', 'display', 'show', 'see', 'list', 'prints', 'directory', 'folder', 'directory', 'dir', 'directories', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|unzip
+2020-07-15 00:43:11.825475|How to print directory components|['print', 'display', 'show', 'see', 'list', 'prints', 'directory', 'folder', 'directory', 'dir', 'directories', 'components', 'compon']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|ls
+2020-07-15 00:45:21.229145|How to print file of a directory|['print', 'display', 'show', 'see', 'list', 'prints', 'file', 'files', 'directory', 'folder', 'directory', 'dir', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NNS']|unzip
+2020-07-15 00:45:43.728708|How to know nowadays directory|['know', 'print', 'display', 'show', 'knows', 'nowadays', 'nowaday', 'directory', 'folder', 'directory', 'dir', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|pwd
+2020-07-15 00:46:01.346937|How to remove dir|['remove', 'erase', 'remove', 'removes', 'dir', 'directory', 'folder', 'dirs']|['VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|mkdir
+2020-07-15 00:46:16.930310|How to remove directory|['remove', 'erase', 'remove', 'removes', 'directory', 'folder', 'directory', 'dir', 'directories']|['VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2020-07-15 00:49:21.285158|How to remove dir|['remove', 'erase', 'remove', 'removes', 'dir', 'directory', 'folder', 'dirs']|['VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|mkdir
+2020-07-15 01:03:37.032165|How to remove dir|['remove', 'erase', 'removes', 'dir', 'directory', 'folder', 'dirs']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|mkdir
+2020-07-15 01:09:15.130174|How to remove dir|['remove', 'erase', 'removes', 'dir', 'directory', 'folder', 'directories', 'dirs']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2020-07-15 01:09:53.804640|How to print file of a directory|['print', 'display', 'show', 'see', 'list', 'prints', 'file', 'files', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NNS']|unzip
+2020-07-15 01:10:10.074747|How to remove directory|['remove', 'erase', 'removes', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2020-07-15 01:16:25.282586|How to print lines of text|['print', 'display', 'show', 'see', 'list', 'prints', 'lines', 'line', 'text', 'texts']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NNS']|echo
+2020-07-15 02:25:19.527157|How to compile C programming language|['compile', 'compiles', 'c', 'information', 'content', 'programming', 'programmings', 'language', 'languages']|['VB', 'VB', 'JJ', 'JJ', 'JJ', 'NN', 'NNS', 'NN', 'NNS']|arch
+2020-07-15 02:25:40.527618|How to execute shell commads|['execute', 'run', 'executes', 'shell', 'shells', 'commads', 'commad']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|chroot
+2020-07-15 02:26:05.541560|How to use stream flows|['use', 'uses', 'stream', 'streams', 'flows', 'flow']|['VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|free
+2020-07-15 02:26:24.046102|How to reduce file size|['reduce', 'reduces', 'file', 'files', 'size', 'sizes']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|file
+2020-07-15 02:27:06.418617|How to clean monitor|['clean', 'cleans', 'monitor', 'monitors']|['VB', 'VB', 'NN', 'NNS']|less
+2020-07-15 02:27:18.268489|How to clean screen|['clean', 'cleans', 'screen', 'terminal', 'screens']|['VB', 'VB', 'NN', 'NN', 'NNS']|less
+2020-07-15 02:27:38.233943|How to clean terminal screen|['clean', 'cleans', 'terminal', 'screen', 'screen', 'screens']|['VB', 'VB', 'JJ', 'JJ', 'NN', 'NNS']|clear
+2020-07-15 02:27:52.935502|How to delete file|['delete', 'erase', 'remove', 'deletes', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|userdel
+2020-07-15 02:28:18.331849|How to copy a file|['copy', 'copys', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|cp
+2020-07-15 11:59:11.095444|How to rename file or directory|['rename', 'renames', 'file', 'files', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NNS']|mv
+2020-07-15 11:59:32.920833|How to change account password|['change', 'modify', 'changes', 'account', 'accounts', 'password', 'passwords']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|passwd
+2020-07-15 11:59:48.260441|How to add user account|['add', 'adds', 'user', 'account', 'accounts']|['VB', 'VB', 'JJ', 'NN', 'NNS']|userdel
+2020-07-15 12:00:05.469935|How to see linux manual|['see', 'print', 'show', 'display', 'sees', 'linux', 'manual']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'JJ']|netstat
+2020-07-15 12:00:58.381629|How to know linux command sintaxis|['know', 'print', 'display', 'show', 'knows', 'linux', 'command', 'program', 'commands', 'sintaxis', 'sintaxiss']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NN', 'NNS']|free
+2020-07-15 12:01:18.902592|How to know linux command sintax|['know', 'print', 'display', 'show', 'knows', 'linux', 'command', 'program', 'commands', 'sintax', 'sintaxs']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NN', 'NNS']|free
+2020-07-15 17:00:58.407054|How to know system temperature|['know', 'print', 'display', 'show', 'knows', 'system', 'os', 'server', 'systems', 'temperature', 'temperatures']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|hostname
+2020-07-15 17:17:56.755926|How to know atmosphere pressure|['know', 'print', 'display', 'show', 'knows', 'pressure', 'pressures']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|top
+2020-07-16 14:29:33.383459|How to know atmosphere pressure|['know', 'print', 'display', 'show', 'knows', 'pressure', 'pressures']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|no hay
+2020-07-16 14:30:26.429526|How to add user account|['add', 'adds', 'user', 'account', 'accounts']|['VB', 'VB', 'JJ', 'NN', 'NNS']|userdel
+2020-07-16 14:31:09.926651|I want copy a file|['i', 'information', 'content', 'copy', 'copies', 'file', 'files']|['NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|no hay
+2020-07-16 14:31:37.743075|I want copy files|['i', 'information', 'content', 'copy', 'copies', 'files', 'file']|['NN', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|no hay
+2020-07-16 14:34:09.788491|I would like copy files|['i', 'information', 'content', 'like', 'likes', 'copy', 'copies', 'files', 'file']|['NN', 'NN', 'NN', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|zip
+2020-07-16 14:34:24.808593|I want to copy files|['i', 'information', 'content', 'copy', 'copys', 'files', 'file']|['NN', 'NN', 'NN', 'VB', 'VB', 'NNS', 'NN']|cp
+2020-07-16 15:41:49.485594|i want to copy files|['copy', 'copys', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|cp
+2020-07-16 15:42:02.574442|i would like copy files|['like', 'likes', 'copy', 'copies', 'files', 'file']|['VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|zip
+2020-07-16 15:45:30.977092|i would like copy files|['copy', 'copies', 'files', 'file']|['NN', 'NNS', 'NNS', 'NN']|no hay
+2020-07-16 15:46:38.709302|i copy files|['copy', 'copies', 'files', 'file']|['NN', 'NNS', 'NNS', 'NN']|no hay
+2020-07-16 15:48:33.146888|i would like to copy files|['copy', 'copys', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|cp
+2020-07-16 15:51:23.509279|i would like to copy files|['copy', 'copys', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|cp
+2020-07-16 15:55:54.303173|how to delete directories|['delete', 'erase', 'remove', 'deletes', 'directories', 'folder', 'directory', 'dir', 'directory']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NNS', 'NNS', 'NNS', 'NN']|rm
+2020-07-16 16:01:48.752364|how to see file system information|['see', 'print', 'show', 'display', 'sees', 'file', 'system', 'os', 'server', 'systems', 'information', 'content', 'informations']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NNS']|uname
+2020-07-16 16:02:01.740962|how to check fs|['check', 'checks', 'fs', 'fss']|['VB', 'VB', 'NN', 'NNS']|mount
+2020-07-16 16:02:16.765832|how to repair fs|['repair', 'repairs', 'fs']|['VB', 'VB', 'JJ']|no hay
+2020-07-16 16:02:27.928187|how t repair file system|['t', 'information', 'content', 'repair', 'repairs', 'file', 'files', 'system', 'os', 'server', 'systems']|['JJ', 'JJ', 'JJ', 'NN', 'NNS', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|uname
+2020-07-16 16:03:29.986759|how to repair file system|['repair', 'repairs', 'file', 'files', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|zip
+2020-07-16 16:04:08.334774|how to check filesystem|['check', 'checks', 'filesystem', 'filesystems']|['VB', 'VB', 'NN', 'NNS']|fsck
+2020-07-16 16:26:41.636063|how to trnasmit files between servers|['trnasmit', 'trnasmits', 'files', 'file', 'servers', 'server']|['VB', 'VB', 'NNS', 'NN', 'NNS', 'NN']|no hay
+2020-07-16 16:26:58.987474|how to transmit files between servers|['transmit', 'transmits', 'files', 'file', 'servers', 'server']|['VB', 'VB', 'NNS', 'NN', 'NNS', 'NN']|curl
+2020-07-16 16:27:15.543194|how to transfer files between servers|['transfer', 'transfers', 'files', 'file', 'servers', 'server']|['VB', 'VB', 'NNS', 'NN', 'NNS', 'NN']|sftp
+2020-07-16 16:42:54.322119|how to manage stream flows|['manage', 'manages', 'stream', 'streams', 'flows', 'flow']|['VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|history
+2020-07-16 16:43:19.140029|how to manage flows of file|['manage', 'manages', 'flows', 'flow', 'file', 'files']|['VB', 'VB', 'NNS', 'NN', 'NN', 'NNS']|top
+2020-07-16 16:43:35.428049|how to know file type|['know', 'print', 'display', 'show', 'knows', 'file', 'files', 'type', 'types']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|wc
+2020-07-16 16:43:53.566466|how to see type of a file|['see', 'print', 'show', 'display', 'sees', 'type', 'types', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|wc
+2020-07-16 16:44:05.244542|how to count words|['count', 'counts', 'words', 'word']|['VB', 'VB', 'NNS', 'NN']|wc
+2020-07-16 16:44:24.779824|how to print part of a file|['print', 'display', 'show', 'see', 'list', 'prints', 'part', 'line', 'parts', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NNS', 'NN', 'NNS']|unzip
+2020-07-16 16:44:40.204212|how to uncompress a file|['uncompress', 'uncompresss', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|curl
+2020-07-16 16:44:59.637155|how to compress a file|['compress', 'compresss', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|zip
+2020-07-16 16:45:47.674581|how to see first part of file|['see', 'print', 'show', 'display', 'sees', 'first', 'part', 'line', 'parts', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NN', 'NNS']|head
+2020-07-16 16:46:01.452151|how to see last lines of file|['see', 'print', 'show', 'display', 'sees', 'last', 'lines', 'line', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN', 'NN', 'NNS']|grep
+2020-07-16 16:46:18.403468|how to see last part of file|['see', 'print', 'show', 'display', 'sees', 'last', 'part', 'line', 'parts', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NN', 'NNS']|stty
+2020-07-16 16:46:52.754170|i want to see last part of a file|['see', 'print', 'show', 'display', 'sees', 'last', 'part', 'line', 'parts', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NN', 'NNS']|stty
+2020-07-16 16:47:06.930864|how to see tail of a file|['see', 'print', 'show', 'display', 'sees', 'tail', 'tails', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|wc
+2020-07-16 16:51:26.518870|how to concat text|['concat', 'concats', 'text', 'texts']|['VB', 'VB', 'NN', 'NNS']|no hay
+2020-07-16 16:52:02.187145|how to concatenate text|['concatenate', 'concatenates', 'text', 'texts']|['VB', 'VB', 'NN', 'NNS']|awk
+2020-07-16 16:52:10.778294|how to concatenate filea|['concatenate', 'concatenates', 'filea', 'fileas']|['VB', 'VB', 'NN', 'NNS']|no hay
+2020-07-16 16:52:41.736255|how to concatenate files|['concatenate', 'concatenates', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|cat
+2020-07-16 17:09:49.706295|how to concatinatae file|['concatinatae', 'concatinataes', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|no hay
+2020-07-16 17:13:43.403021|how to concatinatae file|['concatinatae', 'concatenate', 'concat', 'concatinataes', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|cat
+2020-07-16 17:16:31.447552|how to dealer files|['dealer', 'dealers', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|no hay
+2020-07-16 17:16:46.533084|how to delete a miles|['delete', 'erase', 'remove', 'deletes', 'miles', 'mile']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|no hay
+2020-07-16 17:16:58.208805|how to delete a file|['delete', 'erase', 'remove', 'deletes', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|userdel
+2020-07-16 17:17:19.531992|how to remove files|['remove', 'erase', 'removes', 'files', 'file']|['VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2020-07-16 17:19:05.502711|how to delete file|['delete', 'erase', 'remove', 'deletes', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|userdel
+2020-07-16 17:19:23.336541|how to remove file|['remove', 'erase', 'removes', 'file', 'files']|['VB', 'VB', 'VB', 'NN', 'NNS']|rm
+2020-07-16 17:21:34.632455|how to delete file|['delete', 'erase', 'remove', 'removes', 'deletes', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|userdel
+2020-07-16 17:22:17.009889|how to delete files of a directory|['delete', 'erase', 'remove', 'removes', 'deletes', 'files', 'file', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2020-07-16 18:07:17.025460|how to manage stream of files|['manage', 'manages', 'stream', 'flow', 'streams', 'files', 'file']|['VB', 'VB', 'NN', 'NN', 'NNS', 'NNS', 'NN']|top
+2020-07-16 18:07:34.324732|how to know process information|['know', 'print', 'display', 'show', 'knows', 'process', 'processs', 'information', 'content', 'informations']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NNS']|ipcs
+2020-07-16 18:08:04.247129|how to know current process in system|['know', 'print', 'display', 'show', 'knows', 'current', 'process', 'processs', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|hostname
+2020-07-16 18:08:41.847067|how to know current processes|['know', 'print', 'display', 'show', 'knows', 'current', 'processes', 'process']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN']|top
+2020-07-16 18:10:51.347471|how to see current process are running|['see', 'print', 'show', 'display', 'sees', 'current', 'process', 'processs', 'are', 'ares']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS', 'VBP', 'VBP']|top
+2020-07-16 18:11:59.233613|how to know current processes|['know', 'print', 'display', 'show', 'knows', 'current', 'processes', 'process']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN']|top
+2020-07-16 18:12:07.073506|how to see current process are running|['see', 'print', 'show', 'display', 'sees', 'current', 'process', 'processs', 'are', 'ares']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS', 'VBP', 'VBP']|top
+2020-07-16 18:12:25.137976|how to see processes status|['see', 'print', 'show', 'display', 'sees', 'processes', 'process', 'status', 'statuss']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NNS']|top
+2020-07-16 18:13:01.987072|i want to see current processes are running|['see', 'print', 'show', 'display', 'sees', 'current', 'processes', 'process', 'are', 'ares']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN', 'VBP', 'VBP']|top
+2020-07-16 18:29:58.002567|i want to see current processes are running|['see', 'print', 'show', 'display', 'sees', 'current', 'processes', 'process', 'are', 'ares']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN', 'VBP', 'VBP']|top
+2020-07-16 18:31:29.725486|i want to see current processes are running|['see', 'print', 'show', 'display', 'sees', 'current', 'processes', 'process', 'are', 'ares']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN', 'VBP', 'VBP']|top
+2020-07-16 18:32:58.784359|i want to see current processes are running|['see', 'print', 'show', 'display', 'sees', 'current', 'processes', 'process', 'are', 'ares']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN', 'VBP', 'VBP']|top
+2020-07-16 18:36:44.419703|how to copy a file|['copy', 'copys', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|cp
+2020-07-16 18:37:30.230814|how to copy a file|['copy', 'copys', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|cp
+2020-07-16 18:38:40.700761|how to copy a file|['copy', 'copys', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|cp
+2020-07-16 18:39:40.104439|how to clean screen|['clean', 'cleans', 'screen', 'terminal', 'screens']|['VB', 'VB', 'NN', 'NN', 'NNS']|less
+2020-07-16 18:40:03.031018|how to clear terminal|['clear', 'clears', 'terminal', 'screen', 'terminals']|['VB', 'VB', 'NN', 'NN', 'NNS']|clear
+2020-07-16 18:40:27.736481|how to know current older|['know', 'print', 'display', 'show', 'knows', 'current']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ']|no hay
+2020-07-16 18:40:59.155999|how to know current directory|['know', 'print', 'display', 'show', 'knows', 'current', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NN', 'NNS']|pwd
+2020-07-16 18:41:38.462507|how to count words|['count', 'counts', 'words', 'word']|['VB', 'VB', 'NNS', 'NN']|wc
+2020-07-16 20:21:52.885295|how to upgrade line version|['upgrade', 'upgrades', 'line', 'part', 'string', 'lines', 'version', 'versions']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|curl
+2020-07-16 20:22:24.911866|how to upgrade line system|['upgrade', 'upgrades', 'line', 'part', 'string', 'lines', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|curl
+2020-07-16 20:22:45.092934|how to update operative system|['update', 'updates', 'operative', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NNS']|zip
+2020-07-16 20:23:01.894399|how to upgrade system|['upgrade', 'upgrades', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|curl
+2020-07-16 20:24:35.192503|update system version|['update', 'system', 'os', 'server', 'systems', 'version', 'versions']|['JJ', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|zip
+2020-07-16 20:24:52.602768|how to match string pattern|['match', 'matchs', 'string', 'line', 'strings', 'pattern', 'patterns']|['VB', 'VB', 'NN', 'NN', 'NNS', 'NN', 'NNS']|less
+2020-07-16 20:25:14.123907|how to search text in files|['search', 'searchs', 'text', 'texts', 'files', 'file']|['VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|find
+2020-07-16 20:25:27.254093|how to match pattern|['match', 'matchs', 'pattern', 'patterns']|['VB', 'VB', 'NN', 'NNS']|awk
+2020-07-16 20:25:45.552728|how to add user|['add', 'adds', 'user', 'users']|['VB', 'VB', 'NN', 'NNS']|useradd
+2020-07-16 20:25:56.311468|how to ease user|['ease', 'eases', 'user', 'users']|['VB', 'VB', 'NN', 'NNS']|no hay
+2020-07-16 20:26:10.954735|how to remove a user|['remove', 'erase', 'removes', 'user', 'users']|['VB', 'VB', 'VB', 'NN', 'NNS']|delgroup
+2020-07-16 20:26:25.633562|how to delete a user|['delete', 'erase', 'remove', 'removes', 'deletes', 'user', 'users']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|userdel
+2020-07-16 20:26:49.709378|how to print environment variable|['print', 'display', 'show', 'see', 'list', 'output', 'prints', 'environment', 'env', 'environmental', 'environments', 'variable', 'variables']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|top
+2020-07-16 20:27:10.748663|how to see end variable|['see', 'print', 'show', 'display', 'sees', 'end', 'ends', 'variable', 'variables']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|top
+2020-07-16 20:27:23.421624|how to check variable|['check', 'checks', 'variable']|['VB', 'VB', 'JJ']|no hay
+2020-07-16 20:27:38.121682|how to see date of system|['see', 'print', 'show', 'display', 'sees', 'date', 'dates', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|date
+2020-07-16 20:27:53.232139|how to change time of file|['change', 'modify', 'changes', 'time', 'timestamp', 'timestamps', 'times', 'file', 'files']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|touch
+2020-07-16 20:28:08.957575|how to see tail of a file|['see', 'print', 'show', 'display', 'sees', 'tail', 'tails', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|wc
+2020-07-16 20:28:20.692668|how to see last part of files|['see', 'print', 'show', 'display', 'sees', 'last', 'part', 'line', 'parts', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NNS', 'NN']|stty
+2020-07-16 20:29:17.984621|how to see last part of files|['see', 'print', 'show', 'display', 'output', 'sees', 'last', 'part', 'line', 'parts', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NNS', 'NN']|stty
+2020-07-16 20:30:08.941479|how to see output last part of files|['see', 'print', 'show', 'display', 'output', 'sees', 'output', 'outputs', 'last', 'part', 'line', 'parts', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'JJ', 'NN', 'NN', 'NNS', 'NNS', 'NN']|stty
+2020-07-16 20:53:22.457262|how to know when from system is up|['know', 'print', 'display', 'show', 'knows', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|hostname
+2020-07-16 20:54:06.008184|i want to know how long system is running|['know', 'print', 'display', 'show', 'knows', 'long', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NNS']|hostname
+2020-07-16 20:55:52.858682|i want to know how long system is running|['know', 'print', 'display', 'show', 'tell', 'knows', 'long', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NNS']|uptime
+2020-07-16 20:56:12.338607|i want to know how long system is up|['know', 'print', 'display', 'show', 'tell', 'knows', 'long', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NNS']|uptime
+2020-07-16 20:56:23.174312|i want to know how long system is working|['know', 'print', 'display', 'show', 'tell', 'knows', 'long', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NNS']|uptime
+2020-07-16 20:56:49.988333|i want to know disk usage|['know', 'print', 'display', 'show', 'tell', 'knows', 'disk', 'storage', 'buffer', 'disks', 'usage', 'usages']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|dmesg
+2020-07-16 20:57:08.307114|how to know disk space usage|['know', 'print', 'display', 'show', 'tell', 'knows', 'disk', 'storage', 'buffer', 'space', 'spaces', 'usage', 'usages']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'JJ', 'JJ', 'NN', 'NNS', 'NN', 'NNS']|df
+2020-07-16 20:57:24.275655|how to delete directory|['delete', 'erase', 'remove', 'removes', 'deletes', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2020-07-16 20:57:38.860253|how to remove did|['remove', 'erase', 'removes']|['VB', 'VB', 'VB']|no hay
+2020-07-16 20:58:11.918527|how to know system temperature|['know', 'print', 'display', 'show', 'tell', 'knows', 'system', 'os', 'server', 'systems', 'temperature', 'temperatures']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|hostname
+2020-07-16 20:58:30.541532|how to halt system|['halt', 'halts', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|mount
+2020-07-16 20:58:49.240498|how to turn of system|['turn', 'turns', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|curl
+2020-07-16 20:59:04.031236|how to shutdown system|['shutdown', 'shutdowns', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|curl
+2020-07-16 20:59:14.527632|how to halt system|['halt', 'halts', 'system', 'os', 'server', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|mount
+2020-07-16 21:00:56.777891|how to halt system|['halt', 'halts', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|reboot
+2020-07-16 21:03:05.159933|how to get checks|['get', 'gets', 'checks', 'check']|['VB', 'VB', 'NNS', 'NN']|curl
+2020-07-16 21:03:28.285392|how to get file type|['get', 'gets', 'file', 'type', 'types']|['VB', 'VB', 'JJ', 'NN', 'NNS']|file
+2020-07-16 21:03:48.361922|how to change file times|['change', 'modify', 'changes', 'file', 'files', 'times', 'time', 'timestamp', 'timestamps', 'time']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NNS', 'NNS', 'NNS', 'NN']|touch
+2020-07-16 21:07:41.682252|how to see environment variable|['see', 'print', 'show', 'display', 'output', 'sees', 'environment', 'env', 'environmental', 'environments', 'variable']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'JJ']|set
+2020-07-16 21:08:30.237836|how to synchronize system ache|['synchronize', 'synchronizes', 'system', 'os', 'server', 'machine', 'systems', 'ache', 'aches']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|zip
+2020-07-16 21:08:46.932385|how to see file size|['see', 'print', 'show', 'display', 'output', 'sees', 'file', 'size', 'sizes']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|curl
+2020-07-16 21:09:03.837747|how to see file properties|['see', 'print', 'show', 'display', 'output', 'sees', 'file', 'files', 'properties', 'property']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|cat
+2020-07-16 21:09:43.362728|i want to count file amount of lines|['count', 'counts', 'file', 'amount', 'amounts', 'lines', 'line']|['VB', 'VB', 'JJ', 'NN', 'NNS', 'NNS', 'NN']|less
+2020-07-16 21:10:05.972056|how to know amount of words|['know', 'print', 'display', 'show', 'tell', 'knows', 'amount', 'amounts', 'words', 'word']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|free
+2020-07-16 21:10:27.139418|i need to know memory usage|['know', 'print', 'display', 'show', 'tell', 'knows', 'memory', 'memories', 'usage', 'usages']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|free
+2020-07-17 00:32:49.461687|i need to create link|['create', 'make', 'creates', 'link', 'links']|['VB', 'VB', 'VB', 'NN', 'NNS']|ln
+2020-07-17 00:47:39.304883|how to execute as root|['execute', 'run', 'executes', 'root', 'roots']|['VB', 'VB', 'VB', 'NN', 'NNS']|chroot
+2020-07-17 00:48:34.071189|how to see current processes in  command line interface|['see', 'print', 'show', 'display', 'output', 'sees', 'current', 'processes', 'process', 'command', 'program', 'commands', 'line', 'part', 'string', 'lines', 'interface', 'interfaces']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|top
+2020-07-17 00:49:12.322421|how to calculate a sum|['calculate', 'calculates', 'sum', 'sums']|['VB', 'VB', 'NN', 'NNS']|bc
+2020-07-17 00:49:31.917681|how to report machine|['report', 'reports', 'machine', 'system', 'server', 'machines']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|df
+2020-07-17 00:49:55.711441|how to rest machine|['rest', 'rests', 'machine', 'system', 'server', 'machines']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|curl
+2020-07-17 00:50:14.595196|how to shutdown system|['shutdown', 'shutdowns', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|curl
+2020-07-17 00:50:29.164928|how to halt machine|['halt', 'halts', 'machine', 'system', 'server', 'machines']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|reboot
+2020-07-17 10:06:40.145287|how to copy a file|['copy', 'copys', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|cp
+2020-07-17 10:06:59.712332|how to report system|['report', 'reports', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|df
+2020-07-17 10:08:38.199560|how to report system|['report', 'reports', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|df
+2020-07-17 10:08:52.000801|how to report machine|['report', 'reports', 'machine', 'system', 'server', 'machines']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|df
+2020-07-17 10:09:08.179204|how to halt system|['halt', 'shutdown', 'poweroff', 'reboot', 'halts', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|reboot
+2020-07-17 10:09:44.877979|how to shutdown system|['shutdown', 'halt', 'poweroff', 'reboot', 'shutdowns', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|reboot
+2020-07-17 14:11:49.429055|how to see manual|['see', 'print', 'show', 'display', 'output', 'sees', 'manual']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ']|no hay
+2020-07-17 14:12:26.042773|how to see line reference manual|['see', 'print', 'show', 'display', 'output', 'sees', 'line', 'part', 'string', 'lines', 'reference', 'references', 'manual']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS', 'JJ']|whatis
+2020-07-18 18:44:51.366380|how to translate file content|['translate', 'translates', 'file', 'files', 'content', 'information', 'contents']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NNS']|zip
+2020-07-18 18:45:08.375531|how to translate text of a file|['translate', 'translates', 'text', 'texts', 'file', 'files']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|zip
+2020-07-18 18:53:57.939488|how to translate file|['translate', 'translates', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|zip
+2020-07-18 18:54:20.018611|how to see file information|['see', 'print', 'show', 'display', 'output', 'sees', 'file', 'information', 'content', 'informations']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS']|ipcs
+2020-07-18 18:54:42.421570|how to know file type into|['know', 'print', 'display', 'show', 'tell', 'knows', 'file', 'files', 'type', 'types']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|stat
+2020-07-18 23:35:39.667651|how to translate text|['translate', 'translates', 'text', 'characters', 'string', 'texts']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|tr
+2020-07-19 03:02:04.602349|how to count words|['count', 'counts', 'words', 'word']|['VB', 'VB', 'NNS', 'NN']|wc
+2020-07-19 03:02:18.867834|how to count lines|['count', 'counts', 'lines', 'line']|['VB', 'VB', 'NNS', 'NN']|grep
+2020-07-19 03:45:31.340079|how to change file context|['change', 'modify', 'changes', 'file', 'files', 'context', 'contexts']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|chcon
+2020-07-19 03:46:03.154586|how to see file status|['see', 'print', 'show', 'display', 'output', 'sees', 'file', 'status', 'statuss']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|stat
+2020-07-19 03:46:21.422278|how to upgrade system|['upgrade', 'upgrades', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|curl
+2020-07-19 03:46:35.247586|how to clean screen|['clean', 'cleans', 'screen', 'terminal', 'screens']|['VB', 'VB', 'NN', 'NN', 'NNS']|less
+2020-07-19 03:47:03.154354|i want to clear terminal|['clear', 'clears', 'terminal', 'screen', 'terminals']|['VB', 'VB', 'NN', 'NN', 'NNS']|clear
+2020-07-19 03:47:18.375012|i want to clean terminal|['clean', 'cleans', 'terminal', 'screen', 'terminals']|['VB', 'VB', 'NN', 'NN', 'NNS']|less
+2020-07-19 03:47:33.808884|how to ease files|['ease', 'eases', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|no hay
+2020-07-19 03:47:53.371278|how to delete files|['delete', 'erase', 'remove', 'removes', 'deletes', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|userdel
+2020-07-19 21:22:59.707317|how to match patterns|['match', 'matchs', 'patterns', 'pattern']|['VB', 'VB', 'NNS', 'NN']|no hay
+2020-07-19 21:23:01.636641|hsksjs|['hsksjs', 'hsksjss']|['NN', 'NNS']|no hay
+2020-07-19 21:23:26.538949|how to match patterns|['match', 'matchs', 'patterns', 'pattern']|['VB', 'VB', 'NNS', 'NN']|awk
+2020-07-19 22:57:59.847110|how to change directory|['change', 'modify', 'changes', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|cd
+2020-07-19 23:56:42.789555|how to edit a file|['edit', 'see', 'show', 'edits', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|zip
+2020-07-20 14:27:09.470681|how to know how long the system is up|['know', 'print', 'display', 'show', 'tell', 'knows', 'long', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NN', 'NNS']|uptime
+2020-07-20 14:30:27.125069|how to know usage space disk|['know', 'print', 'display', 'show', 'tell', 'knows', 'usage', 'space', 'spaces', 'disk', 'storage', 'buffer', 'disks']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|df
+2020-07-21 01:09:58.556509|i want to know amount of files in directory|['know', 'print', 'display', 'show', 'tell', 'knows', 'amount', 'amounts', 'files', 'file', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|stat
+2020-07-21 01:11:31.445000|how to upgrade system|['upgrade', 'upgrades', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|curl
+2020-07-21 17:03:24.004666|ind like to remove files|['ind', 'inds', 'remove', 'erase', 'removes', 'files', 'file']|['NN', 'NNS', 'VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2020-07-21 17:03:54.664604|ind like to|['ind', 'inds']|['NN', 'NNS']|no hay
+2020-07-21 17:11:59.131939|ind like to remove files|['ind', 'inds', 'remove', 'erase', 'removes', 'files', 'file']|['NN', 'NNS', 'VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2020-07-21 17:22:10.534626|ind like to move files|['ind', 'inds', 'move', 'erase', 'remove', 'moves', 'files', 'file']|['NN', 'NNS', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2020-07-21 17:23:24.430745|ind like to make directory|['ind', 'inds', 'make', 'create', 'makes', 'directory', 'folder', 'dir', 'directories', 'directories']|['NN', 'NNS', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|mkdir
+2020-07-21 17:34:04.655963|ind like to check is|['ind', 'inds', 'check', 'checks']|['NN', 'NNS', 'VB', 'VB']|no hay
+2020-07-21 17:35:12.712095|ind like to move files|['ind', 'inds', 'move', 'erase', 'remove', 'moves', 'files', 'file']|['NN', 'NNS', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2020-07-21 17:42:25.584129|i want to remove file|['remove', 'erase', 'removes', 'file', 'files']|['VB', 'VB', 'VB', 'NN', 'NNS']|rm
+2020-07-21 18:01:25.258078|i would like to move files|['move', 'erase', 'remove', 'moves', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2020-07-23 18:23:29.256532|how to know all network in|['know', 'print', 'display', 'show', 'tell', 'knows', 'network', 'web', 'internet', 'networks']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|netstat
+2020-07-23 20:25:37.265083|how to see open files|['see', 'print', 'show', 'display', 'output', 'sees', 'open', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN']|lsof
+2020-07-23 20:25:54.193212|how to see files of directory|['see', 'print', 'show', 'display', 'output', 'sees', 'files', 'file', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|stat
+2020-07-23 20:26:08.618025|how to list directory content|['list', 'print', 'display', 'show', 'see', 'output', 'lists', 'directory', 'folder', 'dir', 'directories', 'directories', 'content', 'information', 'contents']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NNS']|ls
+2020-07-24 00:05:37.748620|how to see system information|['see', 'print', 'show', 'display', 'output', 'sees', 'system', 'os', 'server', 'machine', 'systems', 'information', 'content', 'informations']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NNS']|uname
+2020-07-24 16:13:00.081201|how to delete files of a directory|['delete', 'erase', 'remove', 'removes', 'deletes', 'files', 'file', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2020-07-26 00:12:40.109136|how to see memory usage|['see', 'print', 'show', 'display', 'output', 'sees', 'memory', 'memories', 'usage', 'usages']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|free
+2020-07-27 17:27:07.540079|how to start a service|['start', 'starts', 'service', 'services']|['VB', 'VB', 'NN', 'NNS']|systemctl
+2020-07-27 17:27:24.806203|how to stop a service|['stop', 'stops', 'service', 'services']|['VB', 'VB', 'NN', 'NNS']|systemctl
+2020-07-27 17:27:38.607359|how to share disk information|['share', 'shares', 'disk', 'storage', 'buffer', 'disks', 'information', 'content', 'informations']|['NN', 'NNS', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NNS']|no hay
+2020-07-27 17:27:56.450267|how to use samoa server|['use', 'uses', 'samoa', 'server', 'server/system/machine', 'servers']|['VB', 'VB', 'JJ', 'NN', 'NN', 'NNS']|curl
+2020-07-27 23:42:44.482817|how to see services log|['see', 'print', 'show', 'display', 'output', 'sees', 'services', 'servic', 'log', 'login', 'connect', 'logs']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VB', 'VB', 'VB', 'VB']|lsof
+2020-07-27 23:43:06.246466|how to see system demon logs|['see', 'print', 'show', 'display', 'output', 'sees', 'system', 'os', 'server', 'machine', 'systems', 'demon', 'logs', 'log']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'JJ', 'NNS', 'NN']|hostname
+2020-07-27 23:43:28.626049|i want to know system log|['know', 'print', 'display', 'show', 'tell', 'knows', 'system', 'os', 'server', 'machine', 'systems', 'log', 'login', 'connect', 'logs']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|hostname
+2020-07-28 23:47:12.480048|i want to create print server|['create', 'make', 'creates', 'print', 'display', 'show', 'see', 'list', 'output', 'prints', 'server', 'server/system/machine', 'servers']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NNS']|curl
+2020-07-28 23:47:36.356404|i want to see system log|['see', 'print', 'show', 'display', 'output', 'sees', 'system', 'os', 'server', 'machine', 'systems', 'log', 'login', 'connect', 'logs']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS']|hostname
+2020-07-29 14:34:37.448600|how to create a user|['create', 'make', 'creates', 'user', 'users']|['VB', 'VB', 'VB', 'NN', 'NNS']|useradd
+2020-07-29 16:11:40.589746|how to create samoa user|['create', 'make', 'creates', 'samoa', 'samoa', 'user', 'users']|['VB', 'VB', 'VB', 'NNS', 'NN', 'VB', 'VB']|no hay
+2020-07-29 16:12:20.718584|how to create a user|['create', 'make', 'creates', 'user', 'users']|['VB', 'VB', 'VB', 'NN', 'NNS']|useradd
+2020-07-29 23:24:27.271905|how to add said user|['add', 'adds', 'user', 'users']|['VB', 'VB', 'NN', 'NNS']|useradd
+2020-07-29 23:25:38.026664|how to add said user|['add', 'adds', 'user', 'users']|['VB', 'VB', 'NN', 'NNS']|useradd
+2020-07-29 23:25:54.291640|how to know system in|['know', 'print', 'display', 'show', 'tell', 'knows', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|hostname
+2020-07-29 23:31:12.772474|how to know system ip|['know', 'print', 'display', 'show', 'tell', 'knows', 'system', 'os', 'server', 'machine', 'systems', 'ip', 'ips']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|hostname
+2020-07-29 23:31:31.845838|how to add smbd user|['add', 'adds', 'smbd', 'smbd', 'user', 'users']|['VB', 'VB', 'NNS', 'NN', 'VB', 'VB']|smbd
+2020-10-20 00:03:13.059584|how to know which files are open|['know', 'print', 'display', 'show', 'tell', 'knows', 'files', 'file', 'are', 'ares', 'open']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VBP', 'VBP', 'JJ']|stat
+2020-10-20 00:03:28.586060|list open files|['list', 'print', 'display', 'show', 'see', 'output', 'lists', 'open', 'files', 'file']|['NN', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS', 'JJ', 'NNS', 'NN']|lsof
+2020-10-20 00:20:23.604448|how to know disk block id|['know', 'print', 'display', 'show', 'tell', 'knows', 'disk', 'storage', 'buffer', 'disks', 'block', 'blocks', 'id', 'ids']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS', 'NN', 'NNS']|dmesg
+2020-10-20 00:20:50.239635|how to know partition disk id|['know', 'print', 'display', 'show', 'tell', 'knows', 'partition', 'partitions', 'disk', 'storage', 'buffer', 'disks', 'id', 'ids']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|dmesg
+2020-10-21 21:40:08.558597|how to know user session information|['know', 'print', 'display', 'show', 'tell', 'knows', 'user', 'session', 'sessions', 'information', 'content', 'informations']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS', 'NN', 'NN', 'NNS']|useradd
+2020-10-22 01:24:15.461724|how to delete user|['delete', 'erase', 'remove', 'removes', 'deletes', 'user', 'users']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|userdel
+2020-10-27 23:50:09.248842|how to see file system into|['see', 'print', 'show', 'display', 'output', 'sees', 'file', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NN', 'NNS']|stat
+2021-01-05 16:10:22.067433|how to see file content|['see', 'print', 'show', 'display', 'output', 'sees', 'file', 'content', 'information', 'contents']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS']|no hay
+2021-01-05 16:10:53.231172|how to edit a file|['edit', 'see', 'show', 'edits', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|lsof
+2021-01-05 16:18:10.289075|how to remove a directory|['remove', 'erase', 'removes', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2021-01-05 16:18:37.891434|how to delete older|['delete', 'erase', 'remove', 'removes', 'deletes']|['VB', 'VB', 'VB', 'VB', 'VB']|no hay
+2021-01-05 16:18:56.388694|how to delete a directory|['delete', 'erase', 'remove', 'removes', 'deletes', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2021-01-05 16:20:28.050951|how to check files difference|['check', 'checks', 'files', 'file', 'difference', 'differences']|['VB', 'VB', 'NNS', 'NN', 'NN', 'NNS']|no hay
+2021-01-05 16:20:46.419392|how to check files difference|['check', 'checks', 'files', 'file', 'difference', 'differences']|['VB', 'VB', 'NNS', 'NN', 'NN', 'NNS']|lsof
+2021-01-05 16:21:07.474193|how to compare files|['compare', 'compares', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|diff
+2021-01-05 16:22:38.707615|how to list files|['list', 'print', 'display', 'show', 'see', 'output', 'lists', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|lsof
+2021-01-06 11:33:08.531870|how to see file system into|['see', 'print', 'show', 'display', 'output', 'sees', 'file', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NN', 'NN', 'NNS']|stat
+2021-01-18 23:10:34.543180|how to merge files|['merge', 'merges', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|paste
+2021-01-18 23:10:49.468170|hold|['hold', 'holds']|['NN', 'NNS']|no hay
+2021-01-18 23:11:07.409009|how to copy files|['copy', 'copys', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|cp
+2021-01-19 11:16:16.869588|hold|['hold', 'holds']|['NN', 'NNS']|no hay
+2021-01-19 11:16:46.038554|how to merge files|['merge', 'merges', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|paste
+2021-01-19 11:17:05.422611|how to join files|['join', 'joins', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|find
+2021-01-19 12:37:16.478734|how to create filesystem|['create', 'make', 'creates', 'filesystem', 'filesystems']|['VB', 'VB', 'VB', 'NN', 'NNS']|curl
+2021-01-19 15:23:36.111011|how to create filesystem|['create', 'make', 'creates', 'filesystem', 'filesystems']|['VB', 'VB', 'VB', 'NN', 'NNS']|fsck
+2021-01-19 15:25:56.963216|how to copy a file|['copy', 'copys', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|cp
+2021-01-19 15:28:27.500656|how to buy a computer|['buy', 'buys', 'computer', 'computers']|['VB', 'VB', 'NN', 'NNS']|no hay

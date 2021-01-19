@@ -1,0 +1,10 @@
+Hi|Hi, how are you ?
+Hello|Hello, May I help you ?
+How are you|I'm find and you ?
+How are you ?|I'm find and you ?
+thanks|you're welcome
+thank you|Don't mention it
+bye|see you
+see you|bye bye
+Hey|Hey, how are you ?
+I'm fine and you|me too, thanks 
