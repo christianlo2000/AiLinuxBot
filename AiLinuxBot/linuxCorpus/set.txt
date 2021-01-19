@@ -1,0 +1,6 @@
+set
+
+
+set - see environment variables
+
+help us to see all environment variables
