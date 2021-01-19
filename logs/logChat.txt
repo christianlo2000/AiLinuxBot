@@ -298,3 +298,8 @@
 2021-01-19 15:23:36.111011|how to create filesystem|['create', 'make', 'creates', 'filesystem', 'filesystems']|['VB', 'VB', 'VB', 'NN', 'NNS']|fsck
 2021-01-19 15:25:56.963216|how to copy a file|['copy', 'copys', 'file', 'files']|['VB', 'VB', 'NN', 'NNS']|cp
 2021-01-19 15:28:27.500656|how to buy a computer|['buy', 'buys', 'computer', 'computers']|['VB', 'VB', 'NN', 'NNS']|no hay
+2021-01-19 16:17:43.279115|i want to do a directory|['do', 'poweroff', 'halt', 'shutdown', 'dos', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|zip
+2021-01-19 16:18:08.406902|i want to create a directory|['create', 'make', 'creates', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|mkdir
+2021-01-19 16:19:10.195675|how to join text files|['join', 'joins', 'text', 'characters', 'string', 'files', 'file']|['VB', 'VB', 'JJ', 'JJ', 'JJ', 'NNS', 'NN']|join
+2021-01-19 16:20:19.303652|how to search patterns|['search', 'searchs', 'patterns', 'pattern']|['VB', 'VB', 'NNS', 'NN']|less
+2021-01-19 16:20:43.106214|how to edit ascii files|['edit', 'see', 'show', 'edits', 'ascii', 'asciis', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|lsof

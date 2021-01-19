@@ -393,13 +393,14 @@ if __name__ == '__main__':
 	try:
 		while(1):
 			# para python3, usamos input
-			pregunta = input("How can I help you with Linux OS?\n>>> ")
-			print("wait a momento, please!")
-			if (pregunta.lower() == "bye" or pregunta.lower() == "quit"):
-				print("I hope I have helped you.\nbyeee!")
-				exit(0)
+			#pregunta = input("How can I help you with Linux OS?\n>>> ")
+			#print("wait a moment, please!")
+			#if (pregunta.lower() == "bye" or pregunta.lower() == "quit"):
+				#print("I hope I have helped you.\nbyeee!")
+				#exit(0)
 			#procesarConsulta(pregunta)
-			procesarConsultaMasiva(pregunta)
+			#procesarConsultaMasiva(pregunta)
+			continue
 	except KeyboardInterrupt:
 		print("Chat interrumpido por teclado")
 	print("Chauuuu")
