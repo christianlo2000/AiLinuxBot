@@ -28,6 +28,10 @@ def handle(msg):
 	pregunta = msg['text']
 	print('pregunta: %s' % pregunta)
 	print('Chat Id: %s' % chat_id)
+	# analizamos si el mensaje es inicio del bot /start
+	if (pregunta == "/start"):
+		bot.sendMessage(chat_id,"You're welcome to AiLinuxBot. I am a chatbot only speak english. My goal is help you with Linux commands."
+		return
 	# analizamos si el mensaje es saludo
 	#if (pregunta.lower() == "bye" or pregunta.lower() == "see you"):
 	if (isGreetings(pregunta) == False):
