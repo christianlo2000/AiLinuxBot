@@ -303,3 +303,13 @@
 2021-01-19 16:19:10.195675|how to join text files|['join', 'joins', 'text', 'characters', 'string', 'files', 'file']|['VB', 'VB', 'JJ', 'JJ', 'JJ', 'NNS', 'NN']|join
 2021-01-19 16:20:19.303652|how to search patterns|['search', 'searchs', 'patterns', 'pattern']|['VB', 'VB', 'NNS', 'NN']|less
 2021-01-19 16:20:43.106214|how to edit ascii files|['edit', 'see', 'show', 'edits', 'ascii', 'asciis', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NNS', 'NN']|lsof
+2021-01-19 16:49:11.921907|how to copy directory|['copy', 'copys', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|cp
+2021-01-19 17:15:19.833999|how to compile c language file|['compile', 'compiles', 'c', 'concatinatae', 'concatenate', 'concat', 'language', 'languages', 'file', 'files']|['VB', 'VB', 'JJ', 'JJ', 'JJ', 'JJ', 'NN', 'NNS', 'NN', 'NNS']|cat
+2021-01-19 19:28:46.877693|how to delete memory information|['delete', 'erase', 'remove', 'removes', 'deletes', 'memory', 'memories', 'information', 'content', 'informations']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NNS']|top
+2021-01-19 19:53:20.764678|how to move a file|['move', 'erase', 'remove', 'moves', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|rm
+2021-01-19 19:55:57.397333|remove files|['remove', 'erase', 'removes', 'files', 'file']|['VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2021-01-19 21:15:27.447810|how to install patron module|['install', 'installs', 'patron', 'patrons', 'module', 'modules']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|systemctl
+2021-01-19 23:29:15.235281|how to install patron package|['install', 'installs', 'patron', 'patrons', 'package', 'packages']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|pip
+2021-01-19 23:32:50.225116|how to install python package|['install', 'installs', 'python', 'package', 'packages']|['VB', 'VB', 'JJ', 'NN', 'NNS']|pip
+2021-01-19 23:58:29.211912|how to execute command as root|['execute', 'run', 'executes', 'command', 'program', 'commands', 'root', 'roots']|['VB', 'VB', 'VB', 'NN', 'NN', 'NNS', 'NN', 'NNS']|chroot
+2021-01-19 23:58:54.589438|how to run process like to root user|['run', 'execute', 'runs', 'process', 'processs', 'root', 'roots', 'user', 'users']|['VB', 'VB', 'VB', 'NN', 'NNS', 'VB', 'VB', 'NN', 'NNS']|sudo

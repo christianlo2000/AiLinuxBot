@@ -3,3 +3,4 @@ smb
 ip
 os
 smbd
+python
