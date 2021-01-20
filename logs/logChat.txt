@@ -317,3 +317,4 @@
 2021-01-20 00:03:27.061467|how to know all invoke shell commands|['know', 'print', 'display', 'show', 'tell', 'knows', 'invoke', 'invokes', 'shell', 'shells', 'commands', 'command']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS', 'NNS', 'NN']|top
 2021-01-20 00:49:22.029504|how to see time|['see', 'print', 'show', 'display', 'output', 'sees', 'time', 'timestamp', 'timestamps', 'times']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NNS']|date
 2021-01-20 01:49:03.777586|how to move files|['move', 'erase', 'remove', 'moves', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2021-01-20 10:08:26.557560|how to remove a file|['remove', 'erase', 'removes', 'file', 'files']|['VB', 'VB', 'VB', 'NN', 'NNS']|rm

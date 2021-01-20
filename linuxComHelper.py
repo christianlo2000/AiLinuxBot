@@ -41,7 +41,7 @@ def handle(msg):
                 	bot.sendMessage(chat_id,"I'm sorry, I'm a chatbot that only speak english languague")
                 	return
 		# procesamos consulta
-		procesarConsultaMasiva(pregunta)
+		procesarConsultaMasiva(pregunta,chat_id)
 # grabar log 
 def grabarLog(registro):
 	# obtengo fecha y hora para registrar
@@ -111,7 +111,7 @@ def cargarCorporaFromDir(directorio):
 
 # funcion principal para procesar consulta del usuario
 # procesar consulta masiva
-def procesarConsultaMasiva(pregunta1):
+def procesarConsultaMasiva(pregunta1,chat_id):
 	# verificamos la pregunta que este correctamente redactada
 	pregunta = nc.correctSent(pregunta1)
 	if (pregunta.lower() != pregunta1.lower()):
@@ -170,11 +170,11 @@ def procesarConsultaMasiva(pregunta1):
 		return 
 	# si la lista no esta vacia, acote busqueda, solo busco comandos de la lista
 	if (len(listTotSmart) > 0):
-		if (esComandoBuscado(listTotSmart,listaVerbObj,listaFunc,pregunta) == True):
+		if (esComandoBuscado(listTotSmart,listaVerbObj,listaFunc,pregunta,chat_id) == True):
 			return 
 	# validamos lista con una sola coincidencia
 	if (len(listTotSmartB) > 0):
-		if (esComandoBuscado(listTotSmartB,listaVerbObj,listaFunc,pregunta) == True):
+		if (esComandoBuscado(listTotSmartB,listaVerbObj,listaFunc,pregunta,chat_id) == True):
 			return 
 	# analizamos oracion por oracion buscando coincidencia de mas de una palabra
 	k = 0
@@ -226,7 +226,7 @@ def procesarConsultaMasiva(pregunta1):
 		addInfo = "for more information, please consult:: https://en.wikipedia.org/wiki/"+maxCom
 		bot.sendMessage(chat_id,addInfo)
 # funcion para obtener comando correcto
-def esComandoBuscado(listTotSmart,listaVerbObj,listaFunc,pregunta):
+def esComandoBuscado(listTotSmart,listaVerbObj,listaFunc,pregunta,chat_id):
 	m = 0
 	totmax = 0
 	posMax = ""
