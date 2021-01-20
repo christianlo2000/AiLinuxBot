@@ -385,8 +385,8 @@ if __name__ == '__main__':
 	bot.getMe()
 	bot.message_loop(handle)
 	MessageLoop(bot,handle).run_as_thread()
-	chat_id = '750975992'
-	bot.sendMessage(chat_id,"Iniciado linuxComHelper Raspberry PI 4")
+	#chat_id = '750975992'
+	#bot.sendMessage(chat_id,"Iniciado linuxComHelper Raspberry PI 4")
 	#cargarCorpus()
 	directorio = "/home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus"
 	cargarCorporaFromDir(directorio)
