@@ -34,7 +34,7 @@ def handle(msg):
 		return
 	# analizamos si el mensaje es saludo
 	#if (pregunta.lower() == "bye" or pregunta.lower() == "see you"):
-	if (isGreetings(pregunta) == False):
+	if (isGreetings(pregunta,chat_id) == False):
 		# consulto por idioma de la pregunta
 		idioma = nc.getIdioma(pregunta)
 		if (idioma != 'en'):
@@ -52,7 +52,7 @@ def grabarLog(registro):
 	logFile.write(regCom)
 	logFile.close()
 # funciones de saludo (funciona con bugs y necesita mas saludos)
-def isGreetings(pregunta):
+def isGreetings(pregunta,chat_id):
 	saludos = open("/home/pi/python/AiLinuxBot/AiLinuxBot/greetings/greetings.txt","r")
 	for registro in saludos:
 		entrada,salida = registro.split("|")
