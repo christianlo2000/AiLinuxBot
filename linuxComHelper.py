@@ -407,5 +407,5 @@ if __name__ == '__main__':
 			continue
 	except KeyboardInterrupt:
 		print("Chat interrumpido por teclado")
-	print("Chauuuu")
+	print("Byeeeee")
 	exit(0)

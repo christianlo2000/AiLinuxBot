@@ -330,3 +330,14 @@
 2021-01-20 12:10:01.057744|how to know day aniversary|['know', 'print', 'display', 'show', 'tell', 'knows', 'day', 'daies', 'aniversary']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'JJ']|find
 2021-01-20 12:10:50.920757|what is up|[]|[]|no hay
 2021-01-20 12:39:32.292206|how to create queue|['create', 'make', 'creates', 'queue', 'queues']|['VB', 'VB', 'VB', 'NN', 'NNS']|mount
+2021-01-20 14:08:27.469275|how to detect work order|['detect', 'detects', 'work', 'internet', 'web', 'network', 'works', 'order', 'orders']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|lsof
+2021-01-20 15:39:29.553693|good thanks|['good', 'thanks', 'thank']|['JJ', 'NNS', 'NN']|zip
+2021-01-20 15:40:26.676487|i want to read hidden file comments|['read', 'reads', 'hidden', 'file', 'files', 'comments', 'comment']|['VB', 'VB', 'JJ', 'NN', 'NNS', 'NNS', 'NN']|lsof
+2021-01-20 15:40:46.615634|how to activate filesystem|['activate', 'activates', 'filesystem', 'filesystems']|['VB', 'VB', 'NN', 'NNS']|man
+2021-01-20 15:49:06.308580|i want to create filesystem|['create', 'make', 'creates', 'filesystem', 'filesystems']|['VB', 'VB', 'VB', 'NN', 'NNS']|mount
+2021-01-20 15:50:08.234559|i want to create file system|['create', 'make', 'creates', 'file', 'files', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NNS']|ln
+2021-01-20 16:41:33.495803|how to see calendar|['see', 'print', 'show', 'display', 'output', 'sees', 'calendar', 'calendars']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|awk
+2021-01-20 16:42:20.393241|how to know day of week|['know', 'print', 'display', 'show', 'tell', 'knows', 'day', 'daies', 'week', 'weeks']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|find
+2021-01-20 18:06:41.570286|how to create public key|['create', 'make', 'creates', 'public', 'key', 'keies']|['VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|curl
+2021-01-20 22:47:26.606147|how to connect to curl|['connect', 'log', 'login', 'connects', 'curl', 'curls']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB']|no hay
+2021-01-20 22:47:47.757432|how to connect to web site|['connect', 'log', 'login', 'connects', 'web', 'network', 'internet', 'webs', 'site', 'sites']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|wget
