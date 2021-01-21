@@ -5,6 +5,7 @@ import re
 import collections
 from textblob import Word
 from langdetect import detect
+import nltk
 
 # Funciones y metodos de esta libreria
 # validacion de idioma y devolvemos el idioma del texto
@@ -13,6 +14,14 @@ def getIdioma(texto):
 	""" valida el idioma del texto pasado por parametro. """
 	idioma = detect(texto)
 	return(idioma)
+def getLanguage(texto):
+	""" valida el idioma del texto ingresado, y devuelve el mismo. Es mas preciso que getIdioma, ya que usa otra libreria. """
+	tc = nltk.classify.textcat.TextCat()
+	language = tc.guess_language(texto)
+	# validamos si es ingles
+	if (language == 'eng'):
+		return('en')
+	return(language)
 # Elimina texto basura
 def clean_text1(texto):
 	""" elimina algunos caracteres especiales del texto pasado como argumento """

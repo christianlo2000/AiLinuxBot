@@ -14,3 +14,7 @@ guess_two_name = pycountry.languages.get(alpha_3=guess_two).name
 print(guess_one_name)
 print(guess_two_name)
 
+texto = input("Ingrese una oracion: ")
+guess_lang = tc.guess_language(texto)
+print("Idioma: "+guess_lang)
+
