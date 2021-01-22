@@ -36,7 +36,9 @@ def handle(msg):
 	#if (pregunta.lower() == "bye" or pregunta.lower() == "see you"):
 	if (isGreetings(pregunta,chat_id) == False):
 		# consulto por idioma de la pregunta
-		idioma = nc.getIdioma(pregunta)
+		#idioma = nc.getIdioma(pregunta)
+		# getLanguage es mas precisa que getIdioma
+		idioma = nc.getLanguage(pregunta)
 		if (idioma != 'en'):
                 	bot.sendMessage(chat_id,"I'm sorry, I'm a chatbot that only speak english languague")
                 	return

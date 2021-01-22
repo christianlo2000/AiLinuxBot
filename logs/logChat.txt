@@ -344,3 +344,7 @@
 2021-01-21 01:13:59.280675|how to send to message to telegram|['send', 'sends', 'message', 'messages', 'telegram', 'telegrams']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB']|no hay
 2021-01-21 01:14:22.975067|how to print file content|['print', 'display', 'show', 'see', 'list', 'output', 'prints', 'file', 'files', 'content', 'information', 'contents']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NN', 'NNS']|lsof
 2021-01-21 01:15:13.965935|i want to see operating system information|['see', 'print', 'show', 'display', 'output', 'sees', 'system', 'os', 'server', 'machine', 'systems', 'information', 'content', 'informations']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NNS']|uname
+2021-01-21 14:28:17.972689|good morning|['good', 'morning', 'mornings']|['JJ', 'NN', 'NNS']|no hay
+2021-01-21 23:40:11.767465|how to see user information|['see', 'print', 'show', 'display', 'output', 'sees', 'user', 'information', 'content', 'informations']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS']|useradd
+2021-01-22 11:33:08.485233|i want to change file owner|['change', 'modify', 'changes', 'file', 'files', 'owner', 'owners']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|chown
+2021-01-22 11:33:24.777842|i need to change file permission|['change', 'modify', 'changes', 'file', 'files', 'permission', 'permissions']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|chmod
