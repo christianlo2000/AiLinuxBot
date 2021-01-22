@@ -101,4 +101,230 @@ Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/top.txt
 Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/calendar.txt
 Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/blkid.txt
 Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/diff.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/wall.txtArchivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/head.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/join.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/od.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/touch.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/env.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/shutdown.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/paste.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/nano.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/vmstat.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/chage.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/unzip.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/col.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/w.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/lsblk.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/uniq.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/useradd.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/cal.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/last.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/fdisk.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/wget.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/less.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/umount.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/iwlist.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/crontab.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/chgrp.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/cut.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/sftp.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/du.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/sed.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/bc.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/uptime.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/dmesg.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/netstat.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/set.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/stat.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/wc.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/xargs.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/expr.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/sleep.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/uname.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/reboot.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/cd.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/echo.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/lspci.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/iwconfig.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/su.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/find.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/chcon.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/lsusb.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/ipcrm.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/rmdir.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/ipcs.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/at.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/tty.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/mkfs.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/userdel.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/chroot.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/tar.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/grep.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/ping.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/cat.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/df.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/file.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/write.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/lsof.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/fuser.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/smbd.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/python.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/journalctl.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/renice.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/curl.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/pip.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/stty.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/pwd.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/whatis.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/id.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/ssh.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/more.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/sudo.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/nice.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/md5sum.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/login.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/sync.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/groupadd.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/fsck.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/ln.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/sum.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/arch.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/smbpasswd.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/free.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/delgroup.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/awk.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/gzip.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/hexdump.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/who.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/rm.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/mv.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/watch.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/yes.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/top.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/calendar.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/blkid.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/diff.txt
 Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/wall.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/date.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/clear.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/systemctl.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/ifconfig.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/nohup.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/mkdir.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/cp.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/kill.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/chown.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/ls.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/ip.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/hostname.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/pr.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/which.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/passwd.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/mount.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/history.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/tr.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/whereis.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/pip3.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/apt.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/chmod.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/sort.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/man.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/look.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/zip.txt
+Archivo a procesar: /home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus/ps.txt
+pregunta: I'm fine
+Chat Id: 1589054305
+Ora Anal: [('i', 'NN'), ('am', 'VBP'), ('fine', 'JJ')]
+Listamos lista de palabras de pregunta: ['am', 'flow', 'stream', 'ams', 'fine']
+['am', 'flow', 'stream', 'ams', 'fine']
+['VBP', 'VBP', 'VBP', 'VBP', 'JJ']
+corpus: <Text: output the first part of files...> totOcu: 0
+corpus: <Text: join lines of two files on a common...> totOcu: 0
+corpus: <Text: dump files in octal and other formats...> totOcu: 0
+corpus: <Text: change file timestamps...> totOcu: 0
+corpus: <Text: run a program in a modified environment...> totOcu: 0
+corpus: <Text: halt , power off or reboot the machine...> totOcu: 0
+corpus: <Text: merge lines of files...> totOcu: 0
+corpus: <Text: nano 's another editor , an enhanced free...> totOcu: 0
+corpus: <Text: report virtual memory statistics...> totOcu: 0
+corpus: <Text: change user password expiry information...> totOcu: 0
+corpus: <Text: list , test and extract compressed files in...> totOcu: 0
+corpus: <Text: — filter reverse line feeds from input...> totOcu: 0
+corpus: <Text: show who is logged on and what they...> totOcu: 0
+corpus: <Text: list block devices...> totOcu: 0
+corpus: <Text: report or omit repeated lines...> totOcu: 0
+corpus: <Text: create a new user or update default new...> totOcu: 0
+corpus: <Text: ncal — displays a calendar and the date...> totOcu: 0
+corpus: <Text: lastb show a listing of last logged in...> totOcu: 0
+corpus: <Text: manipulate disk partition table...> totOcu: 0
+corpus: <Text: the non interactive network downloader ....> totOcu: 0
+corpus: <Text: opposite of more...> totOcu: 0
+corpus: <Text: unmount file systems...> totOcu: 0
+corpus: <Text: get more detailed wireless information from a wireless...> totOcu: 0
+corpus: <Text: maintain crontab files for individual users vixie cron...> totOcu: 0
+corpus: <Text: change group ownership...> totOcu: 0
+corpus: <Text: remove sections from each line of files...> totOcu: 0
+corpus: <Text: secure file transfer program...> totOcu: 0
+corpus: <Text: estimate file space usage...> totOcu: 0
+corpus: <Text: stream editor for filtering and transforming text...> totOcu: 0
+corpus: <Text: an arbitrary precision calculator language...> totOcu: 0
+corpus: <Text: tell how long the system has been running...> totOcu: 0
+corpus: <Text: print or control the kernel ring buffer...> totOcu: 0
+corpus: <Text: print network connections , routing tables , interface...> totOcu: 0
+corpus: <Text: see environment variables...> totOcu: 0
+corpus: <Text: display file or file system status...> totOcu: 0
+corpus: <Text: print newline , word , and byte counts...> totOcu: 0
+corpus: <Text: build and execute command lines from standard input...> totOcu: 0
+corpus: <Text: evaluate expressions...> totOcu: 0
+corpus: <Text: delay for a specified amount of time...> totOcu: 0
+corpus: <Text: print system information...> totOcu: 0
+corpus: <Text: poweroff , reboot halt , power off or...> totOcu: 0
+corpus: <Text: change directory...> totOcu: 0
+corpus: <Text: display a line of text...> totOcu: 0
+corpus: <Text: list all pci devices...> totOcu: 0
+corpus: <Text: configure a wireless network interface...> totOcu: 0
+corpus: <Text: change user id or become superuser...> totOcu: 0
+corpus: <Text: search for files in a directory hierarchy...> totOcu: 0
+corpus: <Text: change file security context...> totOcu: 0
+corpus: <Text: list usb devices...> totOcu: 0
+corpus: <Text: remove certain ipc resources...> totOcu: 0
+corpus: <Text: remove empty directories...> totOcu: 0
+corpus: <Text: show information on ipc facilities...> totOcu: 0
+corpus: <Text: batch , atq , atrm queue , examine...> totOcu: 0
+corpus: <Text: print the file name of the terminal connected...> totOcu: 0
+corpus: <Text: build a linux filesystem...> totOcu: 0
+corpus: <Text: delete a user account and related files...> totOcu: 0
+corpus: <Text: run command or interactive shell with special root...> totOcu: 0
+corpus: <Text: an archiving utility...> totOcu: 0
+corpus: <Text: egrep , fgrep , rgrep print lines matching...> totOcu: 0
+corpus: <Text: send icmp echo_request to network hosts...> totOcu: 0
+corpus: <Text: concatenate files and print on the standard output...> totOcu: 0
+corpus: <Text: report file system disk space usage...> totOcu: 0
+corpus: <Text: determine file type...> totOcu: 0
+corpus: <Text: — send a message to another user...> totOcu: 0
+corpus: <Text: list open files...> totOcu: 0
+corpus: <Text: identify processes using files or sockets...> totOcu: 0
+corpus: <Text: server to provide smb cifs services to clients...> totOcu: 0
+corpus: <Text: an interpreted , interactive , object oriented programming...> totOcu: 0
+corpus: <Text: query the systemd journal...> totOcu: 0
+corpus: <Text: alter priority of running processes...> totOcu: 0
+corpus: <Text: transfer a url...> totOcu: 0
+corpus: <Text: a tool for installing and managing python packages...> totOcu: 0
+corpus: <Text: change and print terminal line settings...> totOcu: 0
+corpus: <Text: print name of current working directory...> totOcu: 0
+corpus: <Text: display one line manual page descriptions...> totOcu: 0
+corpus: <Text: print real and effective user and group ids...> totOcu: 0
+corpus: <Text: — openssh ssh client remote login program...> totOcu: 0
+corpus: <Text: file perusal filter for crt viewing...> totOcu: 0
+corpus: <Text: sudoedit execute a command as another user...> totOcu: 0
+corpus: <Text: run a program with modified scheduling priority...> totOcu: 0
+corpus: <Text: compute and check md5 message digest...> totOcu: 0
+corpus: <Text: begin session on the system...> totOcu: 0
+corpus: <Text: synchronize cached writes to persistent storage...> totOcu: 0
+corpus: <Text: create a new group...> totOcu: 0
+corpus: <Text: check and repair a linux filesystem...> totOcu: 0
+corpus: <Text: make links between files...> totOcu: 0
+corpus: <Text: checksum and count the blocks in a file...> totOcu: 0
+corpus: <Text: print machine hardware name same as uname m...> totOcu: 0
+corpus: <Text: change a user 's smb password...> totOcu: 0
+corpus: <Text: display amount of free and used memory in...> totOcu: 0

@@ -1,5 +1,0 @@
-samba
-smb
-ip
-os
-smbd

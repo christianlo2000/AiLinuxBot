@@ -8,6 +8,9 @@ bye|see you
 see you|bye bye
 Hey|Hey, how are you ?
 I'm fine and you|me too, thanks 
+I am fine and you|me too, thank you
 good evening|good evening. May I help you ?
 good afternoon|good afternoon. May I help you ?
 good morning|good morning. May I help you ?
+I'm fine|Good, I'm glad for you."
+I am fine|Good, I am glad for you."

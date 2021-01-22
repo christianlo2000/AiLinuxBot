@@ -348,3 +348,5 @@
 2021-01-21 23:40:11.767465|how to see user information|['see', 'print', 'show', 'display', 'output', 'sees', 'user', 'information', 'content', 'informations']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS']|useradd
 2021-01-22 11:33:08.485233|i want to change file owner|['change', 'modify', 'changes', 'file', 'files', 'owner', 'owners']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|chown
 2021-01-22 11:33:24.777842|i need to change file permission|['change', 'modify', 'changes', 'file', 'files', 'permission', 'permissions']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|chmod
+2021-01-22 17:14:51.121380|i am fine|['am', 'flow', 'stream', 'ams', 'fine']|['VBP', 'VBP', 'VBP', 'VBP', 'JJ']|no hay
+2021-01-22 17:33:47.762062|i am fine|['am', 'flow', 'stream', 'ams', 'fine']|['VBP', 'VBP', 'VBP', 'VBP', 'JJ']|no hay
