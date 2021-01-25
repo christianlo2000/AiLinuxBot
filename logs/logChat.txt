@@ -350,3 +350,13 @@
 2021-01-22 11:33:24.777842|i need to change file permission|['change', 'modify', 'changes', 'file', 'files', 'permission', 'permissions']|['VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|chmod
 2021-01-22 17:14:51.121380|i am fine|['am', 'flow', 'stream', 'ams', 'fine']|['VBP', 'VBP', 'VBP', 'VBP', 'JJ']|no hay
 2021-01-22 17:33:47.762062|i am fine|['am', 'flow', 'stream', 'ams', 'fine']|['VBP', 'VBP', 'VBP', 'VBP', 'JJ']|no hay
+2021-01-22 17:50:25.699692|how to know where is a file|['know', 'print', 'display', 'show', 'tell', 'knows', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|stat
+2021-01-22 18:47:36.454512|who are you|['are', 'ares']|['VBP', 'VBP']|no hay
+2021-01-22 18:47:48.357030|whom|[]|[]|no hay
+2021-01-23 22:29:45.457058|how to cat a file|['cat', 'concatinatae', 'concatenate', 'concat', 'cats', 'file', 'files']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|cat
+2021-01-24 10:53:23.424012|how to create filesystem|['create', 'make', 'creates', 'filesystem', 'filesystems']|['VB', 'VB', 'VB', 'NN', 'NNS']|mount
+2021-01-24 10:53:42.425487|how to delete filesystem|['delete', 'erase', 'remove', 'removes', 'deletes', 'filesystem', 'filesystems']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|find
+2021-01-25 11:07:11.399810|how to delete filesystem|['delete', 'erase', 'remove', 'removes', 'deletes', 'filesystem', 'filesystems']|['VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|find
+2021-01-25 11:07:22.858997|who are you|['are', 'ares']|['VBP', 'VBP']|no hay
+2021-01-25 18:18:17.593154|how to know filesystem free space|['know', 'print', 'display', 'show', 'tell', 'knows', 'free', 'space', 'spaces']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|top
+2021-01-25 18:18:37.796696|how to delete files|['delete', 'erase', 'remove', 'removes', 'deletes', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|userdel

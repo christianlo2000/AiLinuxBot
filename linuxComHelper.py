@@ -38,7 +38,7 @@ def handle(msg):
 		# consulto por idioma de la pregunta
 		#idioma = nc.getIdioma(pregunta)
 		# getLanguage es mas precisa que getIdioma
-		idioma = nc.getLanguage(pregunta)
+		idioma = nc.getLanguage(pregunta.lower())
 		if (idioma != 'en'):
                 	bot.sendMessage(chat_id,"I'm sorry, I'm a chatbot that only speak english languague")
                 	return
@@ -387,7 +387,11 @@ comandList = []
 smartList = []
 
 if __name__ == '__main__':
-	bot = telepot.Bot('955248895:AAF5qmVshW3NRGj1pgB4Zolk5y6Jm0TMSH4')
+	# abrimos archivo con token
+	tokenFile = open("./token.key","r")
+	token = tokenFile.readline().rstrip('\n')
+	tokenFile.close()
+	bot = telepot.Bot(token)
 	bot.getMe()
 	bot.message_loop(handle)
 	MessageLoop(bot,handle).run_as_thread()
