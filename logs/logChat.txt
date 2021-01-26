@@ -360,3 +360,10 @@
 2021-01-25 11:07:22.858997|who are you|['are', 'ares']|['VBP', 'VBP']|no hay
 2021-01-25 18:18:17.593154|how to know filesystem free space|['know', 'print', 'display', 'show', 'tell', 'knows', 'free', 'space', 'spaces']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NNS']|top
 2021-01-25 18:18:37.796696|how to delete files|['delete', 'erase', 'remove', 'removes', 'deletes', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|userdel
+2021-01-25 18:31:58.021647|how to know system architecture|['know', 'print', 'display', 'show', 'tell', 'knows', 'system', 'os', 'server', 'machine', 'systems', 'architecture', 'arch', 'architectures']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NNS']|hostname
+2021-01-25 18:45:30.896793|how to delete directors|['delete', 'erase', 'remove', 'removes', 'deletes', 'directors', 'director']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|no hay
+2021-01-25 18:45:51.496058|how to delete holders|['delete', 'erase', 'remove', 'removes', 'deletes', 'holders', 'holder']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|zip
+2021-01-26 00:31:49.035539|how to share files|['share', 'shares', 'files', 'file']|['NN', 'NNS', 'NNS', 'NN']|no hay
+2021-01-26 00:32:00.827194|how to know my user name|['know', 'print', 'display', 'show', 'tell', 'knows', 'user', 'users', 'name', 'names']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|hostname
+2021-01-26 00:32:20.669857|how to know user name|['know', 'print', 'display', 'show', 'tell', 'knows', 'user', 'users', 'name', 'names']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|hostname
+2021-01-26 09:28:52.762643|how to share files|['share', 'shares', 'files', 'file']|['NN', 'NNS', 'NNS', 'NN']|no hay

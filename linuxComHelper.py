@@ -45,12 +45,12 @@ def handle(msg):
 		# procesamos consulta
 		procesarConsultaMasiva(pregunta,chat_id)
 # grabar log 
-def grabarLog(registro):
+def grabarLog(registro,chat_id):
 	# obtengo fecha y hora para registrar
 	fechaHora = datetime.datetime.now()
 	# abrimos archivo
 	logFile = open("/home/pi/python/AiLinuxBot/AiLinuxBot/logs/logChat.txt","a")
-	regCom = str(fechaHora)+"|"+registro+'\n'
+	regCom = str(fechaHora)+"|"+"|"+chat_id+"|"registro+'\n'
 	logFile.write(regCom)
 	logFile.close()
 # funciones de saludo (funciona con bugs y necesita mas saludos)
@@ -166,7 +166,7 @@ def procesarConsultaMasiva(pregunta1,chat_id):
 		bot.sendMessage(chat_id,infoLin,parse_mode='Markdown')
 		# grabamos log
 		regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+listTotSmart[maxPos]
-		grabarLog(regLog)
+		grabarLog(regLog,chat_id)
 		addInfo = "for more information, please consult: https://en.wikipedia.org/wiki/"+listTotSmart[maxPos]
 		bot.sendMessage(chat_id,addInfo)
 		return 
