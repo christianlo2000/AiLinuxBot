@@ -50,7 +50,7 @@ def grabarLog(registro,chat_id):
 	fechaHora = datetime.datetime.now()
 	# abrimos archivo
 	logFile = open("/home/pi/python/AiLinuxBot/AiLinuxBot/logs/logChat.txt","a")
-	regCom = str(fechaHora)+"|"+"|"+chat_id+"|"registro+'\n'
+	regCom = str(fechaHora)+"|"+str(chat_id)+"|"+registro+'\n'
 	logFile.write(regCom)
 	logFile.close()
 # funciones de saludo (funciona con bugs y necesita mas saludos)
@@ -194,7 +194,7 @@ def procesarConsultaMasiva(pregunta1,chat_id):
 				bot.sendMessage(chat_id,infoLin,parse_mode='Markdown')
 				# grabamos log
 				regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+comandList[k]
-				grabarLog(regLog)
+				grabarLog(regLog,chat_id)
 				addInfo = "for more information, please consult:: https://en.wikipedia.org/wiki/"+comandList[k]
 				bot.sendMessage(chat_id,addInfo)
 				return
@@ -223,7 +223,7 @@ def procesarConsultaMasiva(pregunta1,chat_id):
 	bot.sendMessage(chat_id,infoLin,parse_mode='Markdown')
 	# grabamos log
 	regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+maxCom
-	grabarLog(regLog)
+	grabarLog(regLog,chat_id)
 	if (maxCom != "no hay"):
 		addInfo = "for more information, please consult:: https://en.wikipedia.org/wiki/"+maxCom
 		bot.sendMessage(chat_id,addInfo)
@@ -251,7 +251,7 @@ def esComandoBuscado(listTotSmart,listaVerbObj,listaFunc,pregunta,chat_id):
 		# grabamos log
 		regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+listTotSmart[posMax]
 		comando = listTotSmart[posMax]
-		grabarLog(regLog)
+		grabarLog(regLog,chat_id)
 		if (len(listTotSmart) > 1):
 			# comandos que tuvieron cerca
 			# previo eliminamos de la lista el comando encontrado

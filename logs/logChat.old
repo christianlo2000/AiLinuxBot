@@ -367,3 +367,5 @@
 2021-01-26 00:32:00.827194|how to know my user name|['know', 'print', 'display', 'show', 'tell', 'knows', 'user', 'users', 'name', 'names']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|hostname
 2021-01-26 00:32:20.669857|how to know user name|['know', 'print', 'display', 'show', 'tell', 'knows', 'user', 'users', 'name', 'names']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|hostname
 2021-01-26 09:28:52.762643|how to share files|['share', 'shares', 'files', 'file']|['NN', 'NNS', 'NNS', 'NN']|no hay
+2021-01-26 14:30:26.280722||750975992|how to know system version|['know', 'print', 'display', 'show', 'tell', 'knows', 'system', 'os', 'server', 'machine', 'systems', 'version', 'versions']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|hostname
+2021-01-26 14:32:33.495852|750975992|how to know system version|['know', 'print', 'display', 'show', 'tell', 'knows', 'system', 'os', 'server', 'machine', 'systems', 'version', 'versions']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NNS']|hostname

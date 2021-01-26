@@ -9015,3 +9015,7 @@ Traceback (most recent call last):
     return self.urlopen(method, url, **extra_kw)
   File "/usr/lib/python3/dist-packages/urllib3/poolmanager.py", line 323, in urlopen
     response = conn.urlopen(method, u.request_uri, **kw)
+  File "linuxComHelper.py", line 53
+    regCom = str(fechaHora)+"|"+"|"+chat_id+"|"registro+'\n'
+                                                      ^
+SyntaxError: invalid syntax
