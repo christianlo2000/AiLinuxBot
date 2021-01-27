@@ -1,0 +1,11 @@
+2021-01-26 14:37:52.319235|750975992|how to install python package|['install', 'installs', 'python', 'package', 'packages']|['VB', 'VB', 'JJ', 'NN', 'NNS']|pip
+2021-01-26 14:46:44.282658|1589054305|how to know available ports|['know', 'print', 'display', 'show', 'tell', 'knows', 'available', 'ports', 'port']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NN']|top
+2021-01-26 14:47:35.689513|750975992|how to update system|['update', 'updates', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|lsof
+2021-01-26 14:50:51.193160|1589054305|how to generate private key|['generate', 'generates', 'private', 'key', 'keies']|['VB', 'VB', 'JJ', 'NN', 'NNS']|ssh
+2021-01-26 19:04:04.705308|992789475|how to move files|['move', 'erase', 'remove', 'moves', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2021-01-27 00:08:27.557835|750975992|how to delete special characters|['delete', 'erase', 'remove', 'removes', 'deletes', 'special', 'characters', 'text', 'string', 'charact']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NNS', 'NNS', 'NNS', 'NN']|tr
+2021-01-27 00:22:20.520970|750975992|how to delete a files|['delete', 'erase', 'remove', 'removes', 'deletes', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|userdel
+2021-01-27 00:22:50.409318|750975992|how to create is|['create', 'make', 'creates']|['VB', 'VB', 'VB']|no hay
+2021-01-27 00:23:11.347789|750975992|how to create filessystem|['create', 'make', 'creates', 'filessystem', 'filessystems']|['VB', 'VB', 'VB', 'NN', 'NNS']|no hay
+2021-01-27 00:23:34.939334|750975992|how to create files  system|['create', 'make', 'creates', 'files', 'file', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|ln
+2021-01-27 00:24:37.806123|750975992|how to search text patterns|['search', 'searchs', 'text', 'characters', 'string', 'texts', 'patterns', 'pattern']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|awk

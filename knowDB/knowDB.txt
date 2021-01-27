@@ -1,0 +1,4 @@
+how to install python package|pip|S|pip
+how to know available ports|top|N|netstat
+how to update system|lsof|N|apt-get
+how to generate private key|ssh|A|ssh-keygen

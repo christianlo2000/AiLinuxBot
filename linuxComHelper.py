@@ -25,13 +25,15 @@ import nlpCommon as nc # libreria hecha por mi para mejorar texto en ingles e id
 # Funcion Handle de chatbot de telegram
 def handle(msg):
 	chat_id = msg['chat']['id']
-	pregunta = msg['text']
-	print('pregunta: %s' % pregunta)
+	pregunta_inic = msg['text']
+	print('pregunta: %s' % pregunta_inic)
 	print('Chat Id: %s' % chat_id)
 	# analizamos si el mensaje es inicio del bot /start
-	if (pregunta == "/start"):
+	if (pregunta_inic == "/start"):
 		bot.sendMessage(chat_id,"You're welcome to AiLinuxBot. I am a chatbot only speak english. My goal is help you with Linux commands.")
 		return
+	# vemos si hay palabras para reemplazar
+	pregunta = replaceWords(pregunta_inic.lower())
 	# analizamos si el mensaje es saludo
 	#if (pregunta.lower() == "bye" or pregunta.lower() == "see you"):
 	if (isGreetings(pregunta,chat_id) == False):
@@ -42,8 +44,39 @@ def handle(msg):
 		if (idioma != 'en'):
                 	bot.sendMessage(chat_id,"I'm sorry, I'm a chatbot that only speak english languague")
                 	return
-		# procesamos consulta
-		procesarConsultaMasiva(pregunta,chat_id)
+		# validamos si la pregunta esta en la base de conocimiento ya preguntada y respondida
+		if (existInKnowDB(pregunta.lower(),chat_id)):
+			# la logica de envio quedo en existInKnowDB (hay que mejorarlo
+			pass
+		else:
+			# procesamos consulta
+			procesarConsultaMasiva(pregunta,chat_id)
+####################################################################
+# reemplazo palabras porque no figuran como ingles
+def replaceWords(pregunta):
+	preguntaSal = pregunta.replace("file","files")
+	return preguntaSal
+# validacion en base de conocimiento
+def existInKnowDB(pregunta,chat_id):
+	# devolvemos false forzado porque tenemos que mejorar esta funcion
+	return False
+	knowFile = "./knowDB/knowDB.txt"
+	kFile = open(knowFile,"r")
+	listReg = []
+	existe = False
+	while(True):
+		reg1 = kFile.readline()
+		print(reg1)
+		listReg = reg1.split("|")
+		if (reg1 == ""):
+			break
+		if (listReg[0].lower() == pregunta):
+			info =  "I'm sure!! Command that you need is: "+listReg[3]
+			bot.sendMessage(chat_id,info)
+			existe = True
+			break
+	kFile.close()
+	return(existe)
 # grabar log 
 def grabarLog(registro,chat_id):
 	# obtengo fecha y hora para registrar
@@ -162,13 +195,13 @@ def procesarConsultaMasiva(pregunta1,chat_id):
 	# verificamos si tenemos un unico comando
 	if (masDe1 == False and len(listTotSmart) > 0):
 		# encontramos comando unico candidato
-		infoLin = "I'm sure!! Command that you need is: "+listTotSmart[maxPos]
+		infoLin = "I'm sure!! Command that you need is: **"+listTotSmart[maxPos]+"**"
 		bot.sendMessage(chat_id,infoLin,parse_mode='Markdown')
 		# grabamos log
 		regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+listTotSmart[maxPos]
 		grabarLog(regLog,chat_id)
-		addInfo = "for more information, please consult: https://en.wikipedia.org/wiki/"+listTotSmart[maxPos]
-		bot.sendMessage(chat_id,addInfo)
+		#addInfo = "for more information, please consult: https://en.wikipedia.org/wiki/"+listTotSmart[maxPos]
+		#bot.sendMessage(chat_id,addInfo)
 		return 
 	# si la lista no esta vacia, acote busqueda, solo busco comandos de la lista
 	if (len(listTotSmart) > 0):
@@ -195,8 +228,8 @@ def procesarConsultaMasiva(pregunta1,chat_id):
 				# grabamos log
 				regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+comandList[k]
 				grabarLog(regLog,chat_id)
-				addInfo = "for more information, please consult:: https://en.wikipedia.org/wiki/"+comandList[k]
-				bot.sendMessage(chat_id,addInfo)
+				#addInfo = "for more information, please consult:: https://en.wikipedia.org/wiki/"+comandList[k]
+				#bot.sendMessage(chat_id,addInfo)
 				return
 			k += 1
 	# barremos los corpus para detectar coincidencias, obteniendo estadisticas en bruto de las palabras.
@@ -225,8 +258,9 @@ def procesarConsultaMasiva(pregunta1,chat_id):
 	regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+maxCom
 	grabarLog(regLog,chat_id)
 	if (maxCom != "no hay"):
-		addInfo = "for more information, please consult:: https://en.wikipedia.org/wiki/"+maxCom
-		bot.sendMessage(chat_id,addInfo)
+		#addInfo = "for more information, please consult:: https://en.wikipedia.org/wiki/"+maxCom
+		#bot.sendMessage(chat_id,addInfo)
+		pass
 # funcion para obtener comando correcto
 def esComandoBuscado(listTotSmart,listaVerbObj,listaFunc,pregunta,chat_id):
 	m = 0
@@ -258,8 +292,8 @@ def esComandoBuscado(listTotSmart,listaVerbObj,listaFunc,pregunta,chat_id):
 			del listTotSmart[posMax]
 			infoAdd = "Besides, You can see the following commands: "+str(listTotSmart)
 			bot.sendMessage(chat_id,infoAdd)
-		addinfo = "for more information, please consult:: https://en.wikipedia.org/wiki/"+comando
-		bot.sendMessage(chat_id,addinfo)
+		#addinfo = "for more information, please consult:: https://en.wikipedia.org/wiki/"+comando
+		#bot.sendMessage(chat_id,addinfo)
 		return True
 	return False
 
