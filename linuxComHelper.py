@@ -32,6 +32,11 @@ def handle(msg):
 	if (pregunta_inic == "/start"):
 		bot.sendMessage(chat_id,"You're welcome to AiLinuxBot. I am a chatbot only speak english. My goal is help you with Linux commands.")
 		return
+	# validamos si es una pregunta existencial
+	if (pregunta_inic.lower() == "who are you"):
+		bot.sendMessage(chat_id,"I'm a chatbot. I can help you with linux commands. This strange guys wrote my code.")
+		bot.sendPhoto(chat_id,photo=open("./img/fotoChat.jpg","rb"))
+		return
 	# vemos si hay palabras para reemplazar
 	pregunta = replaceWords(pregunta_inic.lower())
 	# analizamos si el mensaje es saludo
@@ -50,6 +55,7 @@ def handle(msg):
 			pass
 		else:
 			# procesamos consulta
+			bot.sendMessage(chat_id,"Wait a moment please, I'm checking my knowledge DB.")
 			procesarConsultaMasiva(pregunta,chat_id)
 ####################################################################
 # reemplazo palabras porque no figuran como ingles

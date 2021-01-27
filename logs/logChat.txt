@@ -9,3 +9,9 @@
 2021-01-27 00:23:11.347789|750975992|how to create filessystem|['create', 'make', 'creates', 'filessystem', 'filessystems']|['VB', 'VB', 'VB', 'NN', 'NNS']|no hay
 2021-01-27 00:23:34.939334|750975992|how to create files  system|['create', 'make', 'creates', 'files', 'file', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|ln
 2021-01-27 00:24:37.806123|750975992|how to search text patterns|['search', 'searchs', 'text', 'characters', 'string', 'texts', 'patterns', 'pattern']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|awk
+2021-01-27 01:45:00.484008|750975992|good night|['good', 'night', 'nights']|['JJ', 'NN', 'NNS']|no hay
+2021-01-27 15:31:32.165827|750975992|i want to change directory|['change', 'modify', 'changes', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|cd
+2021-01-27 15:42:51.881572|750975992|how to share files permission|['share', 'shares', 'files', 'file', 'permission', 'permissions']|['NN', 'NNS', 'NNS', 'NN', 'NN', 'NNS']|no hay
+2021-01-27 15:43:09.313937|750975992|how to delete files|['delete', 'erase', 'remove', 'removes', 'deletes', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|userdel
+2021-01-27 15:43:56.925346|750975992|how to ease files in directory|['ease', 'eases', 'files', 'file', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|no hay
+2021-01-27 15:44:13.730246|750975992|how to remove files|['remove', 'erase', 'removes', 'files', 'file']|['VB', 'VB', 'VB', 'NNS', 'NN']|rm
