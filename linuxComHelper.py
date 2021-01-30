@@ -33,8 +33,10 @@ def handle(msg):
 		bot.sendMessage(chat_id,"You're welcome to AiLinuxBot. I am a chatbot only speak english. My goal is help you with Linux commands.")
 		return
 	# validamos si es una pregunta existencial
-	if (pregunta_inic.lower() == "who are you"):
-		bot.sendMessage(chat_id,"I'm a chatbot. I can help you with linux commands. This strange guys wrote my code.")
+	preguntaexist = pregunta_inic.replace(" ","")
+	preguntaexist1 = preguntaexist.strip("!?")
+	if (preguntaexist1.lower() == "whoareyou"):
+		bot.sendMessage(chat_id,"I'm a chatbot. I can help you with linux commands. This strange guy wrote my code.")
 		bot.sendPhoto(chat_id,photo=open("./img/fotoChat.jpg","rb"))
 		return
 	# vemos si hay palabras para reemplazar
@@ -50,7 +52,7 @@ def handle(msg):
                 	bot.sendMessage(chat_id,"I'm sorry, I'm a chatbot that only speak english languague")
                 	return
 		# validamos si la pregunta esta en la base de conocimiento ya preguntada y respondida
-		if (existInKnowDB(pregunta.lower(),chat_id)):
+		if (matchCacheWords(pregunta.lower(),chat_id)):
 			# la logica de envio quedo en existInKnowDB (hay que mejorarlo
 			pass
 		else:
@@ -79,6 +81,8 @@ def existInKnowDB(pregunta,chat_id):
 		if (listReg[0].lower() == pregunta):
 			info =  "I'm sure!! Command that you need is: "+listReg[3]
 			bot.sendMessage(chat_id,info)
+			fileHelp = "./linuxCorpus/"+listReg[3]+".txt"
+			bot.sendDocument(chat_id,document=open(fileHelp))
 			existe = True
 			break
 	kFile.close()
@@ -201,8 +205,10 @@ def procesarConsultaMasiva(pregunta1,chat_id):
 	# verificamos si tenemos un unico comando
 	if (masDe1 == False and len(listTotSmart) > 0):
 		# encontramos comando unico candidato
-		infoLin = "I'm sure!! Command that you need is: **"+listTotSmart[maxPos]+"**"
+		infoLin = "I'm sure!! Command that you need is: "+listTotSmart[maxPos]
 		bot.sendMessage(chat_id,infoLin,parse_mode='Markdown')
+		fileInfo = "./linuxCorpus/"+listTotSmart[maxPos]+".txt"
+		bot.sendDocument(chat_id,document=open(fileInfo))
 		# grabamos log
 		regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+listTotSmart[maxPos]
 		grabarLog(regLog,chat_id)
@@ -231,6 +237,8 @@ def procesarConsultaMasiva(pregunta1,chat_id):
 			if (totStatS >= 2):
 				infoLin = "I'm not sure, but I'm almost sure, command that you need is: "+comandList[k]
 				bot.sendMessage(chat_id,infoLin,parse_mode='Markdown')
+				fileInfo = "./linuxCorpus/"+commandList[k]+".txt"
+				bot.sendDocument(chat_id,document=open(fileInfo))
 				# grabamos log
 				regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+comandList[k]
 				grabarLog(regLog,chat_id)
@@ -256,10 +264,15 @@ def procesarConsultaMasiva(pregunta1,chat_id):
 	print("Linux Command that you search is: "+maxCom)
 	if (max == 0):
 		# no se encontro comando
-		infoLin = "I'm sorry, I can't find a comand for your question"
+		infoLin = "I'm sorry, I can't find a command for your question"
+		fileInfo = ""
 	else:
 		infoLin = "I guess but I'm not sure, command that you need is: "+maxCom
+		fileInfo = "./linuxCorpus/"+maxCom+".txt"
 	bot.sendMessage(chat_id,infoLin,parse_mode='Markdown')
+	#validamos si hay comando
+	if (fileInfo != ""):
+		bot.sendDocument(chat_id,document=open(fileInfo))	
 	# grabamos log
 	regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+maxCom
 	grabarLog(regLog,chat_id)
@@ -288,6 +301,8 @@ def esComandoBuscado(listTotSmart,listaVerbObj,listaFunc,pregunta,chat_id):
 	if (posMax != ""):
 		infoLin = "I'm almost sure command that you help is: "+listTotSmart[posMax]
 		bot.sendMessage(chat_id,infoLin,parse_mode='Markdown')
+		fileInfo = "./linuxCorpus/"+listTotSmart[posMax]+".txt"
+		bot.sendDocument(chat_id,document=open(fileInfo))
 		# grabamos log
 		regLog = pregunta+"|"+str(listaVerbObj)+"|"+str(listaFunc)+"|"+listTotSmart[posMax]
 		comando = listTotSmart[posMax]
@@ -421,11 +436,51 @@ def getSinonimo(pal):
 				return listSin
 	archSin.close()
 	return listSin
+## Funciones y metodos de la cache
+def armadoCaches(listCache):
+	listC1 = []
+	for cache in listCache:
+		listC1 = cache.split("|")
+		# agregamos a ambas listas
+		listKeyWordCache.append(listC1[0])
+		listCommandCache.append(listC1[1])
+# match cache words
+def matchCacheWords(pregunta,chat_id):
+	""" Busca en el file de cache comandos mas comunes o con patrones mas simples. """
+	i = 0
+	wordsL = []
+	for cacheW in listKeyWordCache:
+		wordsL = cacheW.split(",")
+		match = False
+		for word in wordsL:
+			cant = pregunta.count(word)
+			if(cant == 0):
+			# vuelvo al loop para leer otro elemento. aca no
+				match = False
+				break
+			else:
+				match = True
+		if (match == True):
+		# encontre el comando
+			print("El comando buscado es: "+listCommandCache[i])
+			bot.sendMessage(chat_id,"I'm sure, command that you need is: "+listCommandCache[i])
+			archivoC = "./linuxCorpus/"+listCommandCache[i].rstrip('\n')+".txt"
+			bot.sendDocument(chat_id,document=open(archivoC))
+			return True #encontro el comando, uija!!!
+		i += 1
+	return False # no encontro patron
+# leemos y cargamos cache
+def loadCache(cacheFile):
+	cacheF = open(cacheFile,"r")
+	listCache = cacheF.readlines()
+	armadoCaches(listCache)
 #####################MAIN###############################
 corpusList = []
 comandList = []
 smartList = []
-
+# listas para el cache
+listKeyWordCache = []
+listCommandCache = []
 if __name__ == '__main__':
 	# abrimos archivo con token
 	tokenFile = open("./token.key","r")
@@ -435,11 +490,14 @@ if __name__ == '__main__':
 	bot.getMe()
 	bot.message_loop(handle)
 	MessageLoop(bot,handle).run_as_thread()
-	#chat_id = '750975992'
-	#bot.sendMessage(chat_id,"Iniciado linuxComHelper Raspberry PI 4")
+	chat_id_init = '750975992'
+	bot.sendMessage(chat_id_init,"Iniciado linuxComHelper Raspberry PI 4")
 	#cargarCorpus()
 	directorio = "/home/pi/python/AiLinuxBot/AiLinuxBot/linuxCorpus"
 	cargarCorporaFromDir(directorio)
+	# cargamos el cache
+	cacheFile = "./knowDB/cache.txt"
+	loadCache(cacheFile)
 	try:
 		while(1):
 			# para python3, usamos input
@@ -453,5 +511,6 @@ if __name__ == '__main__':
 			continue
 	except KeyboardInterrupt:
 		print("Chat interrumpido por teclado")
+		bot.sendMessage(chat_id_init,"Se interrumpio AiLinuxBot por teclado.")
 	print("Byeeeee")
 	exit(0)

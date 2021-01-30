@@ -1,0 +1,14 @@
+edit,file|vi
+edit,files|vi
+copy,file|cp
+copy,files|cp
+create,directory|mkdir
+delete,file|rm
+delete,files|rm
+create,filesystem|mkfs
+up,system|uptime
+superuser|su
+move,directory|mv
+find,string,file|grep
+transfer,files|ftp
+transfer,file|ftp

@@ -1,0 +1,7 @@
+edit,file|vi
+copy,file|cp
+create,directory|mkdir
+delete,file|rm
+create,filesystem|mkfs
+up,system|uptime
+last,part,file|tail

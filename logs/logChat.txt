@@ -15,3 +15,56 @@
 2021-01-27 15:43:09.313937|750975992|how to delete files|['delete', 'erase', 'remove', 'removes', 'deletes', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|userdel
 2021-01-27 15:43:56.925346|750975992|how to ease files in directory|['ease', 'eases', 'files', 'file', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|no hay
 2021-01-27 15:44:13.730246|750975992|how to remove files|['remove', 'erase', 'removes', 'files', 'file']|['VB', 'VB', 'VB', 'NNS', 'NN']|rm
+2021-01-27 16:09:26.596475|750975992|who are    you|['are', 'ares']|['VBP', 'VBP']|no hay
+2021-01-27 16:13:04.393379|750975992|who are    you|['are', 'ares']|['VBP', 'VBP']|no hay
+2021-01-27 17:24:56.832051|750975992|who am i|['am', 'flow', 'stream', 'ams']|['VBP', 'VBP', 'VBP', 'VBP']|no hay
+2021-01-27 17:37:31.788907|750975992|which command help me see files text|['command', 'program', 'commands', 'help', 'helps', 'see', 'print', 'show', 'display', 'output', 'sees', 'files', 'file', 'text', 'characters', 'string', 'texts']|['NN', 'NN', 'NNS', 'NN', 'NNS', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP', 'VBP', 'NNS', 'NN', 'VB', 'VB', 'VB', 'VB']|watch
+2021-01-27 18:46:17.919350|750975992|which command i can use to find text pattern|['command', 'program', 'commands', 'use', 'uses', 'find', 'finds', 'text', 'characters', 'string', 'pattern', 'patterns']|['VBP', 'VBP', 'VBP', 'VB', 'VB', 'VB', 'VB', 'JJ', 'JJ', 'JJ', 'NN', 'NNS']|awk
+2021-01-27 19:12:32.913807|750975992|how to know when system is up|['know', 'print', 'display', 'show', 'tell', 'knows', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|hostname
+2021-01-27 19:32:50.640460|750975992|how to know when system is up|['know', 'print', 'display', 'show', 'tell', 'knows', 'system', 'os', 'server', 'machine', 'systems']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|hostname
+2021-01-27 19:33:29.962016|750975992|how to list directory files|['list', 'print', 'display', 'show', 'see', 'output', 'lists', 'directory', 'folder', 'dir', 'directories', 'directories', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|lsof
+2021-01-27 19:33:47.413551|750975992|how to see files in directory|['see', 'print', 'show', 'display', 'output', 'sees', 'files', 'file', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|stat
+2021-01-27 19:36:06.245198|750975992|how to know directory files|['know', 'print', 'display', 'show', 'tell', 'knows', 'directory', 'folder', 'dir', 'directories', 'directories', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|stat
+2021-01-27 19:37:11.541275|750975992|how to list directory content|['list', 'print', 'display', 'show', 'see', 'output', 'lists', 'directory', 'folder', 'dir', 'directories', 'directories', 'content', 'information', 'contents']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NN', 'NN', 'NNS']|ls
+2021-01-27 19:47:16.450005|750975992|could you help me|['help', 'helps']|['VB', 'VB']|no hay
+2021-01-27 22:27:59.154458|750975992|how to display process|['display', 'screen', 'terminal', 'print', 'show', 'displays', 'process', 'processs']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|top
+2021-01-27 22:28:21.889467|750975992|how to know files permission|['know', 'print', 'display', 'show', 'tell', 'knows', 'files', 'file', 'permission', 'permissions']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NNS']|stat
+2021-01-27 22:28:50.789202|750975992|how to display process|['display', 'screen', 'terminal', 'print', 'show', 'displays', 'process', 'processs']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|top
+2021-01-27 22:29:24.471806|750975992|how to display process|['display', 'screen', 'terminal', 'print', 'show', 'displays', 'process', 'processs']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NN', 'NNS']|top
+2021-01-27 22:29:38.521634|750975992|how to change directory|['change', 'modify', 'changes', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|cd
+2021-01-27 22:46:09.636874|837768543|shut down|['shut', 'poweroff', 'halt', 'shutdown', 'shut']|['NNS', 'NNS', 'NNS', 'NNS', 'NN']|no hay
+2021-01-27 22:46:53.419870|837768543|create files|['create', 'make', 'creates', 'files', 'file']|['NN', 'NN', 'NNS', 'NNS', 'NN']|no hay
+2021-01-27 22:47:26.163657|837768543|who i am|['am', 'flow', 'stream', 'ams']|['VBP', 'VBP', 'VBP', 'VBP']|no hay
+2021-01-27 22:47:42.498152|837768543|ifconfig|['ifconfig', 'ifconfigs']|['NN', 'NNS']|no hay
+2021-01-27 22:50:36.208303|837768543|command to create a files|['command', 'program', 'commands', 'create', 'make', 'creates', 'files', 'file']|['NN', 'NN', 'NNS', 'VB', 'VB', 'VB', 'NNS', 'NN']|ln
+2021-01-27 22:51:22.916898|837768543|command to delete files|['command', 'program', 'commands', 'delete', 'erase', 'remove', 'removes', 'deletes', 'files', 'file']|['NN', 'NN', 'NNS', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|userdel
+2021-01-27 22:51:45.095584|837768543|command to move a directory|['command', 'program', 'commands', 'move', 'erase', 'remove', 'moves', 'directory', 'folder', 'dir', 'directories', 'directories']|['NN', 'NN', 'NNS', 'VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2021-01-27 23:09:17.184710|1690684906|how to write a files|['write', 'writes', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|lsof
+2021-01-27 23:28:59.631901|411402810|who is the best liver|['liver', 'livers']|['NN', 'NNS']|no hay
+2021-01-27 23:29:23.086054|750975992|how to use regular expression|['use', 'uses', 'regular', 'expression', 'expressions']|['VB', 'VB', 'JJ', 'NN', 'NNS']|curl
+2021-01-27 23:29:47.170367|411402810|who is the best liver|['liver', 'livers']|['NN', 'NNS']|no hay
+2021-01-27 23:31:37.660232|411402810|who is the leader favorite|['leader', 'leaders', 'favorite', 'favorites']|['NN', 'NNS', 'NN', 'NNS']|no hay
+2021-01-27 23:33:47.934833|411402810|how create user|['create', 'make', 'user', 'users']|['JJ', 'JJ', 'NN', 'NNS']|useradd
+2021-01-28 10:21:36.211973|750975992|how can i find an string in a files on my directory|['find', 'finds', 'string', 'line', 'characters', 'text', 'strings', 'files', 'file', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|lsof
+2021-01-28 10:23:11.648105|750975992|how can i find an string in a files on any directory|['find', 'finds', 'string', 'line', 'characters', 'text', 'strings', 'files', 'file', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NN', 'NNS']|lsof
+2021-01-28 10:49:35.766288|750975992|how i can see last part of a files|['see', 'print', 'show', 'display', 'output', 'sees', 'last', 'part', 'line', 'parts', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NNS', 'NN']|stat
+2021-01-28 10:50:11.609386|1525095025|how split files|['split', 'files', 'file']|['JJ', 'NNS', 'NN']|zip
+2021-01-28 10:50:21.161648|750975992|last part of files|['last', 'part', 'line', 'parts', 'files', 'file']|['JJ', 'NN', 'NN', 'NNS', 'NNS', 'NN']|lsof
+2021-01-28 10:50:47.153729|750975992|how to see files permission|['see', 'print', 'show', 'display', 'output', 'sees', 'files', 'file', 'permission', 'permissions']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VB', 'VB']|stat
+2021-01-28 10:52:32.021404|1525095025|how do i edit a files|['do', 'poweroff', 'halt', 'shutdown', 'dos', 'edit', 'see', 'show', 'edits', 'files', 'file']|['VBP', 'VBP', 'VBP', 'VBP', 'VBP', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|lsof
+2021-01-28 10:54:37.372508|750975992|how to see files permission|['see', 'print', 'show', 'display', 'output', 'sees', 'files', 'file', 'permission', 'permissions']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VB', 'VB']|stat
+2021-01-28 11:09:37.548095|750975992|how can i edit a files|['edit', 'see', 'show', 'edits', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|lsof
+2021-01-28 11:09:52.873175|750975992|how can i edit text files|['text', 'characters', 'string', 'files', 'file']|['JJ', 'JJ', 'JJ', 'NNS', 'NN']|pr
+2021-01-28 11:35:47.653910|750975992|how to know all users are connect|['know', 'print', 'display', 'show', 'tell', 'knows', 'users', 'user', 'are', 'ares', 'connect', 'log', 'login']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VBP', 'VBP', 'JJ', 'JJ', 'JJ']|users
+2021-01-28 11:56:13.546389|750975992|how can i copy files|['copy', 'copies', 'files', 'file']|['NN', 'NNS', 'NNS', 'NN']|no hay
+2021-01-28 11:56:31.738709|750975992|how to copy a files|['copy', 'copys', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|cp
+2021-01-28 11:56:52.006734|750975992|how i copy a files|['copy', 'copys', 'files', 'file']|['VBP', 'VBP', 'NNS', 'NN']|cp
+2021-01-29 00:54:12.264602|750975992|how to print last part of a files|['print', 'display', 'show', 'see', 'list', 'output', 'prints', 'last', 'part', 'line', 'parts', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NNS', 'NN']|tail
+2021-01-29 00:57:25.399504|750975992|how to use superuser mode|['use', 'uses', 'superuser', 'superusers', 'mode', 'modes']|['VB', 'VB', 'NN', 'NNS', 'NN', 'NNS']|curl
+2021-01-29 01:00:37.417049|750975992|how to modify files date|['modify', 'change', 'changes', 'modifys', 'files', 'file', 'date', 'dates']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NNS']|chmod
+2021-01-29 01:00:56.767514|750975992|how to modify files time|['modify', 'change', 'changes', 'modifys', 'files', 'file', 'time', 'timestamp', 'timestamps', 'times']|['VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'NN', 'NN', 'NN', 'NNS']|touch
+2021-01-29 01:02:45.627748|750975992|how to move directory|['move', 'erase', 'remove', 'moves', 'directory', 'folder', 'dir', 'directories', 'directories']|['VB', 'VB', 'VB', 'VB', 'NN', 'NN', 'NN', 'NN', 'NNS']|rm
+2021-01-29 01:08:11.958812|750975992|how split files|['split', 'files', 'file']|['JJ', 'NNS', 'NN']|split
+2021-01-29 13:58:36.852866|750975992|how to see first part of files|['see', 'print', 'show', 'display', 'output', 'sees', 'first', 'part', 'line', 'parts', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NNS', 'NN']|head
+2021-01-29 21:43:40.655804|750975992|how to translate words|['translate', 'translates', 'words', 'word']|['VB', 'VB', 'NNS', 'NN']|man
+2021-01-29 21:44:37.126376|750975992|how to obtain command help|['obtain', 'obtains', 'command', 'program', 'commands', 'help', 'helps']|['VB', 'VB', 'NN', 'NN', 'NNS', 'NN', 'NNS']|curl
