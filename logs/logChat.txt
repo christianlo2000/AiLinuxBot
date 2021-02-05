@@ -68,3 +68,7 @@
 2021-01-29 13:58:36.852866|750975992|how to see first part of files|['see', 'print', 'show', 'display', 'output', 'sees', 'first', 'part', 'line', 'parts', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'NN', 'NN', 'NNS', 'NNS', 'NN']|head
 2021-01-29 21:43:40.655804|750975992|how to translate words|['translate', 'translates', 'words', 'word']|['VB', 'VB', 'NNS', 'NN']|man
 2021-01-29 21:44:37.126376|750975992|how to obtain command help|['obtain', 'obtains', 'command', 'program', 'commands', 'help', 'helps']|['VB', 'VB', 'NN', 'NN', 'NNS', 'NN', 'NNS']|curl
+2021-01-30 01:32:45.916589|750975992|how to replace text in files|['replace', 'replaces', 'text', 'characters', 'string', 'texts', 'files', 'file']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|lsof
+2021-01-30 01:36:04.401391|750975992|i want to know where is a files|['know', 'print', 'display', 'show', 'tell', 'knows', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|stat
+2021-01-31 20:10:02.361691|750975992|how to know files type|['know', 'print', 'display', 'show', 'tell', 'knows', 'files', 'file', 'type', 'types']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VB', 'VB']|stat
+2021-02-04 17:31:04.513944|750975992|how to overwrite a files|['overwrite', 'overwrites', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|shred

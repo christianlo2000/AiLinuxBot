@@ -12,3 +12,4 @@ move,directory|mv
 find,string,file|grep
 transfer,files|ftp
 transfer,file|ftp
+file,type|file
