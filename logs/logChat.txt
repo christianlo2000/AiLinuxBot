@@ -72,3 +72,7 @@
 2021-01-30 01:36:04.401391|750975992|i want to know where is a files|['know', 'print', 'display', 'show', 'tell', 'knows', 'files', 'file']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN']|stat
 2021-01-31 20:10:02.361691|750975992|how to know files type|['know', 'print', 'display', 'show', 'tell', 'knows', 'files', 'file', 'type', 'types']|['VB', 'VB', 'VB', 'VB', 'VB', 'VB', 'NNS', 'NN', 'VB', 'VB']|stat
 2021-02-04 17:31:04.513944|750975992|how to overwrite a files|['overwrite', 'overwrites', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|shred
+2021-02-04 23:32:51.509922|750975992|how to overwrite a files|['overwrite', 'overwrites', 'files', 'file']|['VB', 'VB', 'NNS', 'NN']|shred
+2021-02-08 00:01:59.279748|1589054305|how to finish process|['finish', 'finishs', 'process', 'processs']|['VB', 'VB', 'NN', 'NNS']|systemctl
+2021-02-08 10:19:43.797083|750975992|how to convert text files|['convert', 'converts', 'text', 'characters', 'string', 'texts', 'files', 'file']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|pr
+2021-02-12 18:59:48.434310|750975992|how to restore a back|['restore', 'restores', 'back', 'backs']|['VB', 'VB', 'NN', 'NNS']|unzip

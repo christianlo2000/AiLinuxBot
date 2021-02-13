@@ -509,7 +509,7 @@ if __name__ == '__main__':
 			#procesarConsulta(pregunta)
 			#procesarConsultaMasiva(pregunta)
 			#continue
-			time.sleep(10)
+			time.sleep(60)
 	except KeyboardInterrupt:
 		print("Chat interrumpido por teclado")
 		bot.sendMessage(chat_id_init,"Se interrumpio AiLinuxBot por teclado.")
