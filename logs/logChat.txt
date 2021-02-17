@@ -76,3 +76,5 @@
 2021-02-08 00:01:59.279748|1589054305|how to finish process|['finish', 'finishs', 'process', 'processs']|['VB', 'VB', 'NN', 'NNS']|systemctl
 2021-02-08 10:19:43.797083|750975992|how to convert text files|['convert', 'converts', 'text', 'characters', 'string', 'texts', 'files', 'file']|['VB', 'VB', 'NN', 'NN', 'NN', 'NNS', 'NNS', 'NN']|pr
 2021-02-12 18:59:48.434310|750975992|how to restore a back|['restore', 'restores', 'back', 'backs']|['VB', 'VB', 'NN', 'NNS']|unzip
+2021-02-13 17:46:11.294863|750975992|how to install a user utility|['install', 'installs', 'user', 'utility', 'utilities']|['VB', 'VB', 'JJ', 'NN', 'NNS']|useradd
+2021-02-13 18:08:22.394217|750975992|how to delete screen message|['delete', 'erase', 'remove', 'removes', 'deletes', 'screen', 'terminal', 'message', 'messages']|['VB', 'VB', 'VB', 'VB', 'VB', 'JJ', 'JJ', 'NN', 'NNS']|less
